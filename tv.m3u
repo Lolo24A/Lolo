@@ -1,79 +1,80 @@
 #EXTM3U
-#EXTINF:-1,NICKELODEON
-http://95.211.250.58/NICKELODEON/index.m3u8
-#EXTINF:-1,ANIMAL_PLANET HD
-http://95.211.250.58/ANIMAL_PLANET/index.m3u8
-#EXTINF:-1,PARAMOUNT_CHANNEL HD
-http://95.211.250.58/PARAMOUNT_CHANNEL/index.m3u8
-#EXTINF:-1,VIVID_RED HD
-http://95.211.250.58/VIVID_RED/index.m3u8
-#EXTINF:-1,HGTV HD
-http://95.211.250.58/HGTV/index.m3u8
-#EXTINF:-1,BRAZZERS HD
-http://95.211.250.58/BRAZZERS/index.m3u8
-#EXTINF:-1,CINEMAX HD
-http://95.211.250.58/CINEMAX/index.m3u8
-#EXTINF:-1,BOOMERANG HD
-http://95.211.250.58/BOOMERANG/index.m3u8
-#EXTINF:-1,cbs_reality HD
-http://95.211.250.58/cbs_reality/index.m3u8
-#EXTINF:-1,FOX HD
-http://95.211.250.58/FOX/index.m3u8
-#EXTINF:-1,DISCOVERY HD
-http://95.211.250.58/DISCOVERY/index.m3u8
-#EXTINF:-1,DTX HD
-http://95.211.250.58/DTX/index.m3u8
-#EXTINF:-1,ESKA_TV HD
-http://95.211.250.58/ESKA_TV/index.m3u8
-#EXTINF:-1,TVN HD
-http://95.211.250.58/TVN/index.m3u8
-#EXTINF:-1,TVN_7 HD
-http://95.211.250.58/TVN_7/index.m3u8
-#EXTINF:-1,BBC HD
-http://95.211.250.58/BBC/index.m3u8
-#EXTINF:-1,H2 HD
-http://95.211.250.58/H2/index.m3u8
-#EXTINF:-1,BOOMERANG HD
-http://95.211.250.58/BOOMERANG/index.m3u8
-#EXTINF:-1,FILMBOX HD
-http://95.211.250.58/FILMBOX/index.m3u8
-#EXTINF:-1,HISTORY HD
-http://95.211.250.58/HISTORY/index.m3u8
-#EXTINF:-1,disney_xd
-http://95.211.250.58/disney_xd/index.m3u8
-#EXTINF:-1,FOX HD
-http://95.211.250.58/FOX/index.m3u8
-#EXTINF:-1,TELE_5
-http://95.211.250.58/TELE_5/index.m3u8
-#EXTINF:-1,TVN HD
-http://95.211.250.58/TVN/index.m3u8
+#EXTINF:-1,Animal Planet HD
+http://45.233.169.1:8000/play/a00e
+#EXTINF:-1,A&E HD
+http://45.233.169.1:8000/play/a05j
+#EXTINF:-1,A&E HD
+http://45.233.169.1:8000/play/a00b
+#EXTINF:-1,ABC TV
+http://45.233.169.1:8000/play/a09w
+#EXTINF:-1,AE Mundo
+http://45.233.169.1:8000/play/a052
+#EXTINF:-1,AE Mundo
+http://45.233.169.1:8000/play/a016
+#EXTINF:-1,AMC HD
+http://45.233.169.1:8000/play/a06c
+#EXTINF:-1,AMC HD
+http://45.233.169.1:8000/play/a00c
+#EXTINF:-1,ATRES SERIES
+http://45.233.169.1:8000/play/a08d
+#EXTINF:-1,ATRES SERIES HD
+http://45.233.169.1:8000/play/a09j
+#EXTINF:-1,AXN
+http://45.233.169.1:8000/play/a017
 #EXTINF:-1,AXN HD
-http://95.211.250.58/AXN/index.m3u8
-#EXTINF:-1,HBO HD
-http://95.211.250.58/HBO/index.m3u8
-#EXTINF:-1,TVN HD
-http://95.211.250.58/TVN/index.m3u8
-#EXTINF:-1,NAT_GEO_WILD HD
-http://95.211.250.58/NAT_GEO_WILD/index.m3u8
-#EXTINF:-1,HBO HD
-http://95.211.250.58/HBO/index.m3u8
-#EXTINF:-1,E HD
-http://95.211.250.58/E/index.m3u8
-#EXTINF:-1,da_vinci
-http://95.211.250.58/da_vinci/index.m3u8
-#EXTINF:-1,NICK_JR
-http://95.211.250.58/NICK_JR/index.m3u8
-#EXTINF:-1,TRAVEL_CHANNEL HD
-http://95.211.250.58/TRAVEL_CHANNEL/index.m3u8
-#EXTINF:-1,H2 HD
-http://95.211.250.58/H2/index.m3u8
-#EXTINF:-1,DTX HD
-http://95.211.250.58/DTX/index.m3u8
-#EXTINF:-1,TV6 HD
-http://95.211.250.58/TV6/index.m3u8
-#EXTINF:-1,TV4 HD
-http://95.211.250.58/TV4/index.m3u8
-#EXTINF:-1,TLC HD
-http://95.211.250.58/TLC/index.m3u8
-#EXTINF:-1,H2 HD
-http://95.211.250.58/H2/index.m3u8
+http://45.233.169.1:8000/play/a05m
+#EXTINF:-1,AXN HD
+http://45.233.169.1:8000/play/a00d
+#EXTINF:-1,AZ Cinema HD
+http://45.233.169.1:8000/play/a08o
+#EXTINF:-1,America TV PY
+http://45.233.169.1:8000/play/a018
+#EXTINF:-1,AmericaTV HD
+http://45.233.169.1:8000/play/a0a0
+#EXTINF:-1,Animal Planet
+http://45.233.169.1:8000/play/a04v
+#EXTINF:-1,Animal Planet
+http://45.233.169.1:8000/play/a019
+#EXTINF:-1,Animal Planet HD
+http://45.233.169.1:8000/play/a06m
+#EXTINF:-1,BBC World
+http://45.233.169.1:8000/play/a082
+#EXTINF:-1,BLU Radio
+http://45.233.169.1:8000/play/a07a
+#EXTINF:-1,Baby First HD
+http://45.233.169.1:8000/play/a09y
+#EXTINF:-1,Baby First HD
+http://45.233.169.1:8000/play/a05b
+#EXTINF:-1,Baby TV
+http://45.233.169.1:8000/play/a00f
+#EXTINF:-1,Baby TV
+http://45.233.169.1:8000/play/a07v
+#EXTINF:-1,BabyFirst
+http://45.233.169.1:8000/play/a01a
+#EXTINF:-1,BabyFirst
+http://45.233.169.1:8000/play/a04g
+#EXTINF:-1,C InstitucionalHD
+http://45.233.169.1:8000/play/a0a7
+#EXTINF:-1,CARACOL HD 2
+http://45.233.169.1:8000/play/a03a
+#EXTINF:-1,CARACOL TV HD
+http://45.233.169.1:8000/play/a039
+#EXTINF:-1,CHV HD
+http://45.233.169.1:8000/play/a097
+#EXTINF:-1,CNN Chile
+http://45.233.169.1:8000/play/a046
+#EXTINF:-1,CNN Chile HD
+http://45.233.169.1:8000/play/a05h
+#EXTINF:-1,CNN Espanol
+http://45.233.169.1:8000/play/a01b
+#EXTINF:-1,CNN Espaæol
+http://45.233.169.1:8000/play/a081
+#EXTINF:-1,CNN International
+http://45.233.169.1:8000/play/a083
+#EXTINF:-1,Canal 13 HD
+http://45.233.169.1:8000/play/a06o
+#EXTINF:-1,Canal 24 Horas HD
+http://45.233.169.1:8000/play/a06x
+#EXTINF:-1,Canal Estrellas
+http://45.233.169.1:8000/play/a055
+#EXTINF
