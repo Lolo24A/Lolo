@@ -6,11 +6,49 @@ http://160.20.164.171:8001/play/a03x
 http://160.20.164.171:8001/play/a074
 #EXTINF:-1,BRAZZERS HD
 http://95.211.250.58/BRAZZERS/index.m3u8
-#EXTINF:-1,Bein Ñ Deportes
-http://iptv.latino-webtv.com/stalker.php?ch=BeinSportsLA&id=2527
-#EXTINF:-1, ESPN 3
-http://iptv.latino-webtv.com/stalker.php?ch=ESPN3LASD&id=3806
-#EXTINF:-1, ESPN 2
-http://iptv.latino-webtv.com/stalker.php?ch=ESPN2LASD&id=301
-#EXTINF:-1, ESPN
-http://iptv.latino-webtv.com/stalker.php?ch=ESPNLA&id=2487
+#EXTINF:-1,ECDF HD
+http://45.233.169.1:8000/play/a0aa
+#EXTINF:-1,ESPN
+http://45.233.169.1:8000/play/a050
+#EXTINF:-1,ESPN
+http://45.233.169.1:8000/play/a006
+#EXTINF:-1,ESPN
+http://45.233.169.1:8000/play/a01u
+#EXTINF:-1,ESPN 2
+http://45.233.169.1:8000/play/a007
+#EXTINF:-1,ESPN 2 HD
+http://45.233.169.1:8000/play/a05w
+#EXTINF:-1,ESPN 2 HD
+http://45.233.169.1:8000/play/a09h
+#EXTINF:-1,ESPN 2 Latin
+http://45.233.169.1:8000/play/a01v
+#EXTINF:-1,ESPN 2 Latin HD
+http://45.233.169.1:8000/play/a0a9
+#EXTINF:-1,ESPN 3
+http://45.233.169.1:8000/play/a01w
+#EXTINF:-1,ESPN 3
+http://45.233.169.1:8000/play/a008
+#EXTINF:-1,ESPN 3 HD
+http://45.233.169.1:8000/play/a09f
+#EXTINF:-1,ESPN 3 HD
+http://45.233.169.1:8000/play/a09c
+#EXTINF:-1,ESPN 4
+http://45.233.169.1:8000/play/a04y
+#EXTINF:-1,ESPN 4
+http://45.233.169.1:8000/play/a021
+#EXTINF:-1,ESPN CO
+http://45.233.169.1:8000/play/a01x
+#EXTINF:-1,ESPN CO HD
+http://45.233.169.1:8000/play/a07j
+#EXTINF:-1,ESPN EXTRA HD
+http://45.233.169.1:8000/play/a06d
+#EXTINF:-1,ESPN HD
+http://45.233.169.1:8000/play/a062
+#EXTINF:-1,ESPN HD
+http://45.233.169.1:8000/play/a09v
+#EXTINF:-1,TNT SPORTS HD
+http://45.233.169.1:8000/play/a05o
+#EXTINF:-1,VTV
+http://45.236.28.72:8000/play/a063/index.m3u8
+#EXTINF:-1,TyC
+http://45.233.169.1:8000/play/a051
