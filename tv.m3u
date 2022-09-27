@@ -1,76 +1,8 @@
-#EXTINF:-1,A&E HD
-http://187.120.222.37:8000/play/AeE/index.m3u8
-#EXTINF:-1,AMC HD
-http://187.120.222.37:8000/play/AMC/index.m3u8
-#EXTINF:-1,AXN HD
-http://187.120.222.37:8000/play/AXN/index.m3u8
-#EXTINF:-1,AgroMais HD
-http://187.120.222.37:8000/play/AgroMais/index.m3u8
-#EXTINF:-1,Animal Planet HD
-http://187.120.222.37:8000/play/Animal/index.m3u8
-#EXTINF:-1,Arte 1 HD
-http://187.120.222.37:8000/play/Arte1/index.m3u8
-#EXTINF:-1,BIS HD
-http://187.120.222.37:8000/play/BIS/index.m3u8
-#EXTINF:-1,BR8 TV HD
-http://187.120.222.37:8000/play/a0cj/index.m3u8
-#EXTINF:-1,Band HD
-http://187.120.222.37:8000/play/Band/index.m3u8
-#EXTINF:-1,Band Sports HD
-http://187.120.222.37:8000/play/BandSports/index.m3u8
-#EXTINF:-1,Boomerang HD
-http://187.120.222.37:8000/play/Boomerang/index.m3u8
-#EXTINF:-1,CNN Brasil HD
-http://187.120.222.37:8000/play/CNNBrasil/index.m3u8
-#EXTINF:-1,CONMEBOL TV 1
-http://187.120.222.37:8000/play/Conmebol1/index.m3u8
-#EXTINF:-1,CONMEBOL TV 2
-http://187.120.222.37:8000/play/Conmebol2/index.m3u8
-#EXTINF:-1,CONMEBOL TV 3
-http://187.120.222.37:8000/play/Conmebol3/index.m3u8
-#EXTINF:-1,Campeonato Carioca 2
-http://187.120.222.37:8000/play/Carioca2/index.m3u8
-#EXTINF:-1,Canal Brasil HD
-http://187.120.222.37:8000/play/CanalBrasil/index.m3u8
-#EXTINF:-1,Canal ComunitÆrio
-http://187.120.222.37:8000/play/CanalComunitario/index.m3u8
-#EXTINF:-1,Canal Sony HD
-http://187.120.222.37:8000/play/Sony/index.m3u8
-#EXTINF:-1,Canal do Boi HD
-http://187.120.222.37:8000/play/a0cw/index.m3u8
-#EXTINF:-1,Cartoon Network HD
-http://187.120.222.37:8000/play/Cartoon/index.m3u8
-#EXTINF:-1,Cinemax HD
-http://187.120.222.37:8000/play/Cinemax/index.m3u8
-#EXTINF:-1,Combate HD
-http://187.120.222.37:8000/play/Combate2/index.m3u8
-#EXTINF:-1,Comedy Central HD
-http://187.120.222.37:8000/play/Comedy/index.m3u8
-#EXTINF:-1,Cultura HD
-http://187.120.222.37:8000/play/a0bf/index.m3u8
-#EXTINF:-1,Curta! HD
-http://187.120.222.37:8000/play/Curta/index.m3u8
-#EXTINF:-1,Disc. Home & Health HD
-http://187.120.222.37:8000/play/DiscHH/index.m3u8
-#EXTINF:-1,Discovery HD
-http://187.120.222.37:8000/play/Discovery/index.m3u8
-#EXTINF:-1,Discovery Kids HD
-http://187.120.222.37:8000/play/DiscoveryKids/index.m3u8
-#EXTINF:-1,Discovery Theater HD
-http://187.120.222.37:8000/play/DiscoveryTheater/index.m3u8
-#EXTINF:-1,Discovery Turbo HD
-http://187.120.222.37:8000/play/DiscoveryTurbo/index.m3u8
-#EXTINF:-1,Discovery World HD
-http://187.120.222.37:8000/play/DiscoveryWorld/index.m3u8
-#EXTINF:-1,Disney HD
-http://187.120.222.37:8000/play/Disney/index.m3u8
-#EXTINF:-1,E! HD
-http://187.120.222.37:8000/play/E/index.m3u8
-#EXTINF:-1,ESPN Brasil HD
+#EXTINF:-1,ESPN Brasil HD
 http://187.120.222.37:8000/play/ESPNBrasil/index.m3u8
-#EXTINF:-1,ESPN Extra HD
+#EXTINF:-1,ESPN Extra HD
 http://187.120.222.37:8000/play/ESPNExtra/index.m3u8
-#EXTINF:-1,ESPN HD
+#EXTINF:-1,ESPN HD
 http://187.120.222.37:8000/play/ESPN/index.m3u8
 #EXTINF:-1,FOX HD
 http://187.120.222.37:8000/play/FOX/index.m3u8
