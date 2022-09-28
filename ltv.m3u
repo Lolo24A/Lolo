@@ -6,38 +6,23 @@ http://160.20.164.171:8001/play/a03x
 http://160.20.164.171:8001/play/a074
 #EXTINF:-1,BRAZZERS HD
 http://95.211.250.58/BRAZZERS/index.m3u8
-#EXTINF:-1,ECDF HD
-http://45.233.169.1:8000/play/a0aa
-#EXTINF:-1,ESPN
-http://45.233.169.1:8000/play/a050
+
 #EXTINF:-1,ESPN
 http://45.233.169.1:8000/play/a006
-#EXTINF:-1,ESPN
-http://45.233.169.1:8000/play/a01u
+
 #EXTINF:-1,ESPN 2
 http://45.233.169.1:8000/play/a007
 #EXTINF:-1,ESPN 2 HD
 http://45.233.169.1:8000/play/a05w
-#EXTINF:-1,ESPN 2 HD
-http://45.233.169.1:8000/play/a09h
-#EXTINF:-1,ESPN 2 Latin
-http://45.233.169.1:8000/play/a01v
-#EXTINF:-1,ESPN 2 Latin HD
-http://45.233.169.1:8000/play/a0a9
+
 #EXTINF:-1,ESPN 3
 http://45.233.169.1:8000/play/a01w
 #EXTINF:-1,ESPN 3
 http://45.233.169.1:8000/play/a008
-#EXTINF:-1,ESPN HD
-http://45.233.169.1:8000/play/a062
-#EXTINF:-1,ESPN HD
-http://45.233.169.1:8000/play/a09v
+
 #EXTINF:-1,VTV
 http://45.236.28.72:8000/play/a063/index.m3u8
-#EXTINF:-1,TyC
-http://45.233.169.1:8000/play/a051
-#EXTINF:-1,Fox Sports 1 HD
-http://45.233.169.1:8000/play/a072
+
 #EXTINF:-1,Fox Sports 2
 http://45.233.169.1:8000/play/a094
 #EXTINF:-1,Fox Sports 2
@@ -48,23 +33,10 @@ http://45.233.169.1:8000/play/a088
 http://45.233.169.1:8000/play/a023
 #EXTINF:-1,Fox Sports 3 HD
 http://45.233.169.1:8000/play/a09d
-#EXTINF:-1,ESPN
-http://186.28.229.211:25000/play/a01v
-#EXTINF:-1,ESPN 2
-http://186.28.229.211:25000/play/a01m
-#EXTINF:-1,ESPN 2 Latin
-http://186.28.229.211:25000/play/a01u
-#EXTINF:-1,ESPN 3
-http://186.28.229.211:25000/play/a04l
-#EXTINF:-1,ESPN 4
-http://186.28.229.211:25000/play/a02s
-#EXTINF:-1,ESPN CO
-http://186.28.229.211:25000/play/a03c
-#EXTINF:-1,ESPN EXTRA HD
-http://186.28.229.211:25000/play/a0b5
-#EXTINF:-1,TyC Sports
-http://45.238.21.106:7778/play/a04l
+
 #EXTINF:-1,DirecTv Arg
-http://tv.teleclub.xyz/stream/Deportes/DIRECTV_ARG/index.m3u8
+http://tv.teleclub.xyz/stream/DIRECTV_ARG/index.m3u8
 #EXTINF:-1,Bein Sports
 http://tv.teleclub.xyz/stream/Deportes/BEING_SPORTS/index.m3u8
+#EXTINF:-1,DirecTv Arg
+http://tv.teleclub.xyz/stream/Deportes/DIRECTV/index.m3u8
