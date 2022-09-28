@@ -10,13 +10,15 @@ http://95.211.250.58/BRAZZERS/index.m3u8
 http://45.233.169.1:8000/play/a006
 #EXTINF:-1,ESPN 2
 http://45.233.169.1:8000/play/a007
-#EXTINF:-1,ESPN 2 HD
-http://45.233.169.1:8000/play/a05w
 #EXTINF:-1,ESPN 3
 http://45.233.169.1:8000/play/a008
 #EXTINF:-1,VTV
 http://45.236.28.72:8000/play/a063/index.m3u8
 #EXTINF:-1,Bein Sports
-http://tv.teleclub.xyz/stream/Deportes/BEIN_SPORTS/index.m3u8
+http://tv.teleclub.xyz/stream/Deportes/BEING_SPORTS/index.m3u8
 #EXTINF:-1,DirecTv Arg
 http://tv.teleclub.xyz/stream/Deportes/DIRECTV/index.m3u8
+#EXTINF:-1,Bein Sports
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_2.m3u8
+#EXTINF:-1,Directv Arg
+http://23.148.145.49:9001/televall2022/8_.m3u8?token=PxZ6dscxqK59DNQlBxc5Ww&expires=1664333660
