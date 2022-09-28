@@ -64,3 +64,7 @@ http://186.28.229.211:25000/play/a03c
 http://186.28.229.211:25000/play/a0b5
 #EXTINF:-1,TyC Sports
 http://45.238.21.106:7778/play/a04l
+#EXTINF:-1,DirecTv Arg
+http://tv.teleclub.xyz/stream/Deportes/DIRECTV_ARG/index.m3u8
+#EXTINF:-1,Bein Ñ Sports
+http://tv.teleclub.xyz/stream/Deportes/BEING_SPORTS/index.m3u8
