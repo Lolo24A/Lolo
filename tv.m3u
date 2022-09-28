@@ -23,6 +23,20 @@ http://45.71.200.254:8000/play/a0kh/index.m3u8
 http://45.71.200.254:8000/play/a0ix/index.m3u8
 #EXTINF:-1 tvg-logo="http://45.71.200.254:8000/playlist/tvg-logo/a0kg.png",ESPN HD
 http://45.71.200.254:8000/play/a0kg/index.m3u8
+#EXTINF:-1,ESPN
+http://45.233.169.1:8000/play/a006
+#EXTINF:-1,ESPN 2
+http://45.233.169.1:8000/play/a007
+#EXTINF:-1,ESPN 3
+http://45.233.169.1:8000/play/a008
+#EXTINF:-1,VTV
+http://45.236.28.72:8000/play/a063/index.m3u8
+#EXTINF:-1,Bein Sports
+http://tv.teleclub.xyz/stream/Deportes/BEING_SPORTS/index.m3u8
+#EXTINF:-1,DirecTv Arg
+http://tv.teleclub.xyz/stream/Deportes/DIRECTV/index.m3u8
+#EXTINF:-1,Bein Sports
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_2.m3u8
 #EXTINF:-1 tvg-logo="http://45.71.200.254:8000/playlist/tvg-logo/a0ht.png",FOX SPORTS 2 HD
 http://45.71.200.254:8000/play/a0ht/index.m3u8
 #EXTINF:-1 tvg-logo="http://45.71.200.254:8000/playlist/tvg-logo/a0kj.png",FOX SPORTS 3 HD
