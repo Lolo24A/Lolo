@@ -28,3 +28,7 @@ http://195.154.185.179/xx_sextreme/index.m3u8
 http://195.154.185.179/xx_venus_tv/index.m3u8
 #EXTINF:-1,Tyc Sports 
 https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_2A/TyC_Internacional.mpd
+#EXTINF:-1,Tyc Sports
+http://gratuita.mrzutv.net:8080/play/bp4zbmj3D9K0-IKq-fBElMQ6E03n5qIJTA1P3xW8aek
+#EXTINF:-1,TUDN
+http://gratuita.mrzutv.net:8080/play/bp4zbmj3D9K0-IKq-fBElPCNGPZsDix0-CBgNIMD28U
