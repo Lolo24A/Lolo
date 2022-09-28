@@ -26,3 +26,5 @@ http://195.154.185.179/xx_playboy_europe/index.m3u8
 http://195.154.185.179/xx_sextreme/index.m3u8
 #EXTINF:-1,XXX Venus tv
 http://195.154.185.179/xx_venus_tv/index.m3u8
+#EXTINF:-1,Tyc Sports 
+https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_2A/TyC_Internacional.mpd
