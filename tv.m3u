@@ -29,8 +29,6 @@ http://45.233.169.1:8000/play/a006
 http://45.233.169.1:8000/play/a007
 #EXTINF:-1,ESPN 3
 http://45.233.169.1:8000/play/a008
-#EXTINF:-1,VTV
-http://45.236.28.72:8000/play/a063/index.m3u8
 #EXTINF:-1,Bein Sports
 http://tv.teleclub.xyz/stream/Deportes/BEING_SPORTS/index.m3u8
 #EXTINF:-1,DirecTv Arg
@@ -153,8 +151,6 @@ http://45.71.200.254:8000/play/a0ho/index.m3u8
 http://200.41.79.165:8000/play/a0js
 #EXTINF:-1,GolTV HD
 http://160.20.164.171:8001/play/a03x
-#EXTINF:-1,Playboy
-http://160.20.164.171:8001/play/a074
 #EXTINF:-1,BRAZZERS HD
 http://95.211.250.58/BRAZZERS/index.m3u8
 #EXTINF:-1,HUSTLER HD
@@ -165,5 +161,3 @@ http://195.154.185.179/xx_penthouse_gold_hd/index.m3u8
 https://videostreaming.cloudserverlatam.com/CSTV/CSTV/chunklist_w2098039877.m3u8
 #EXTINF:-1,LOS SIMPSONS 2
 http://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
-#EXTINF:-1,Claro Sports 
-http://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
