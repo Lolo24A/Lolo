@@ -161,3 +161,13 @@ http://195.154.185.179/xx_penthouse_gold_hd/index.m3u8
 https://videostreaming.cloudserverlatam.com/CSTV/CSTV/chunklist_w2098039877.m3u8
 #EXTINF:-1,LOS SIMPSONS 2
 http://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
+#EXTINF:-1,Simpsons
+https://api55.tvgratis.live/streams3/master.m3u8?id=797
+#EXTINF:-1,Coraje
+https://api55.tvgratis.live/streams3/master.m3u8?id=519
+#EXTINF:-1,Tigo Bolivia 
+https://api55.tvgratis.live/streams3/master.m3u8?id=764
+#EXTINF:-1,Chavo del 8
+https://api55.tvgratis.live/streams3/master.m3u8?id=400
+#EXTINF:-1,Chapulín Colorado
+https://api55.tvgratis.live/streams3/master.m3u8?id=418
