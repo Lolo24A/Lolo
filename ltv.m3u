@@ -3,14 +3,6 @@
 http://160.20.164.171:8001/play/a074
 #EXTINF:-1,BRAZZERS HD
 http://95.211.250.58/BRAZZERS/index.m3u8
-#EXTINF:-1,Bein Sports
-http://tv.teleclub.xyz/stream/Deportes/BEING_SPORTS/index.m3u8
-#EXTINF:-1,DirecTv Arg
-http://tv.teleclub.xyz/stream/Deportes/DIRECTV/index.m3u8
-#EXTINF:-1,Bein Sports
-https://siloh.pluto.tv/lilo/production/BEIN/ES/master_2.m3u8
-#EXTINF:-1,Directv Arg
-http://23.148.145.49:9001/televall2022/8_.m3u8?token=PxZ6dscxqK59DNQlBxc5Ww&expires=1664333660
 #EXTINF:-1,XXX Babes tv
 http://195.154.185.179/xx_babes_tv_hd/index.m3u8
 #EXTINF:-1,XXX Hustler
@@ -27,12 +19,6 @@ http://195.154.185.179/xx_playboy_europe/index.m3u8
 http://195.154.185.179/xx_sextreme/index.m3u8
 #EXTINF:-1,XXX Venus tv
 http://195.154.185.179/xx_venus_tv/index.m3u8
-#EXTINF:-1,Tyc Sports 
-https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_2A/TyC_Internacional.mpd
-#EXTINF:-1,Tyc Sports
-http://gratuita.mrzutv.net:8080/play/bp4zbmj3D9K0-IKq-fBElMQ6E03n5qIJTA1P3xW8aek
-#EXTINF:-1,TUDN
-http://gratuita.mrzutv.net:8080/play/bp4zbmj3D9K0-IKq-fBElPCNGPZsDix0-CBgNIMD28U
 #EXTINF:-1,One piece 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1,Naruto
@@ -41,13 +27,3 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ee92e72fb286e0007285f
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1,Liga premier Paramount+
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d816fcf24d280008762ee9livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
-#EXTINF:-1,Mami tv
-https://photocall.tv/je9d/l1?ch=miami_la.m3u8
-#EXTINF:-1,Bein Sports 
-https://photocall.tv/je9d/l1?ch=bein_xtra
-#EXTINF:-1,Bein Sports Ñ
-https://photocall.tv/je9d/l1?ch=bein_xtra_n
-#EXTINF:-1,Babes
-http://oxax.tv/babes-tv.html
-#EXTINF:-1,Brazzers
-http://oxax.tv/brazzers-tv.html
