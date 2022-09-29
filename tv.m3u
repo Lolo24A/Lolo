@@ -165,3 +165,5 @@ http://195.154.185.179/xx_penthouse_gold_hd/index.m3u8
 https://videostreaming.cloudserverlatam.com/CSTV/CSTV/chunklist_w2098039877.m3u8
 #EXTINF:-1,LOS SIMPSONS 2
 http://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
+#EXTINF:-1,Claro Sports 
+http://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
