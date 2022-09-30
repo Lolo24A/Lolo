@@ -74,6 +74,9 @@ http://200.41.79.165:8000/play/a0js
 #EXTINF:-1,GolTV HD
 #EXTGRP:Deportes
 http://160.20.164.171:8001/play/a03x
+#EXTINF:-1,GolTV
+#EXTGRP:Deportes
+http://170.83.242.10:5350/play/a00v
 #EXTINF:-1,Tyc Sports
 #EXTGRP:Deportes
 http://181.78.27.190:5350/play/a00w
@@ -109,6 +112,8 @@ http://45.71.200.254:8000/play/a0hp/index.m3u8
 http://45.71.200.254:8000/play/a03s/index.m3u8
 #EXTINF:-1 tvg-logo="http://45.71.200.254:8000/playlist/tvg-logo/a0hn.png",STAR CHANNEL HD
 http://45.71.200.254:8000/play/a0hn/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.71.200.254:8000/playlist/tvg-logo/a0hn.png",STAR CHANNEL
+http://170.83.242.10:5350/play/a037
 #EXTINF:-1 tvg-logo="http://45.71.200.254:8000/playlist/tvg-logo/a0g4.png",STAR LIFE
 http://45.71.200.254:8000/play/a0g4/index.m3u8
 #EXTINF:-1 tvg-logo="http://45.71.200.254:8000/playlist/tvg-logo/a0hu.png",TNT HD
