@@ -105,14 +105,6 @@ http://live.mycamtv.com/teen.m3u8
 http://live.mycamtv.com/white.m3u8
 #EXTINF:-1,MyCamTV Young Girls (18+)
 http://live.mycamtv.com/young.m3u8
-#EXTINF:-1,Shemale Tube TV (18+)
-https://www.ast.tv/stream/1/low.m3u8
-#EXTINF:-1,Shemale Tube TV HD (18+)
-https://www.ast.tv/stream/1/ultra.m3u8
-#EXTINF:-1,Shemale Tube TV 2 (18+)
-https://www.ast.tv/stream/2/low.m3u8
-#EXTINF:-1,Shemale Tube TV 2 HD (18+)
-https://www.ast.tv/stream/2/ultra.m3u8
 #EXTINF:-1,VISIT-X TV HD (18+)
 http://stream.visit-x.tv:1935/vxtv/live/playlist.m3u8
 #EXTINF:-1,Кино 18+
@@ -313,60 +305,3 @@ https://t11.cdn2020.com:12336/video/m3u8/2021/10/02/0627c7b4/index.m3u8
 https://t11.cdn2020.com:12336/video/m3u8/2021/10/02/a6b1d923/index.m3u8
 #EXTINF:-1,XXX Video 13
 https://u89ey.cdnedge.live/file/avple-images/hls/62cc8f5075425b99bb694ca2/playlist.m3u8
-#EXTINF:-1,Claro Sports HD
-#EXTGRP:Deportes
-http://45.71.200.254:8000/play/a0kz/index.m3u8
-#EXTINF:-1,ESPN +
-#EXTGRP:Deportes
-http://45.71.200.254:8000/play/a0gl/index.m3u8
-#EXTINF:-1,ESPN MX 2 HD
-#EXTGRP:Deportes
-http://45.71.200.254:8000/play/a0ki/index.m3u8
-#EXTINF:-1,ESPN MX 3 HD
-#EXTGRP:Deportes
-http://45.71.200.254:8000/play/a0kh/index.m3u8
-#EXTINF:-1,ESPN HD
-#EXTGRP:Deportes
-http://45.71.200.254:8000/play/a0kg/index.m3u8
-#EXTINF:-1,ESPN
-#EXTGRP:Deportes
-http://45.233.169.1:8000/play/a006
-#EXTINF:-1,ESPN 2
-#EXTGRP:Deportes
-http://45.233.169.1:8000/play/a007
-#EXTINF:-1,ESPN 3
-#EXTGRP:Deportes
-http://45.233.169.1:8000/play/a008
-#EXTINF:-1,ESPN 4 HD
-#EXTGRP:Deportes
-http://45.71.200.254:8000/play/a0ix/index.m3u8
-#EXTINF:-1,Bein Sports
-#EXTGRP:Deportes
-http://tv.teleclub.xyz/stream/Deportes/BEING_SPORTS/index.m3u8
-#EXTINF:-1,DirecTv Arg
-#EXTGRP:Deportes
-http://tv.teleclub.xyz/stream/Deportes/DIRECTV/index.m3u8
-#EXTINF:-1,Bein Sports
-#EXTGRP:Deportes
-https://siloh.pluto.tv/lilo/production/BEIN/ES/master_2.m3u8
-#EXTINF:-1,FOX SPORTS 2 HD
-#EXTGRP:Deportes
-http://45.71.200.254:8000/play/a0ht/index.m3u8
-#EXTINF:-1,FOX SPORTS 3 HD
-#EXTGRP:Deportes
-http://45.71.200.254:8000/play/a0kj/index.m3u8
-#EXTINF:-1,Latin America Sport
-#EXTGRP:Deportes
-http://45.71.200.254:8000/play/a03j/index.m3u8
-#EXTINF:-1,Tigo Sports HD
-#EXTGRP:Deportes
-http://45.71.200.254:8000/play/a02v/index.m3u8
-#EXTINF:-1,Win Sports+ HD
-#EXTGRP:Deportes
-http://200.41.79.165:8000/play/a0js
-#EXTINF:-1,GolTV HD
-#EXTGRP:Deportes
-http://160.20.164.171:8001/play/a03x
-#EXTINF:-1,Tyc Sports
-#EXTGRP:Deportes
-http://181.78.27.190:5350/play/a00w
