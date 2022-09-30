@@ -161,3 +161,11 @@ http://195.154.185.179/xx_penthouse_gold_hd/index.m3u8
 https://videostreaming.cloudserverlatam.com/CSTV/CSTV/chunklist_w2098039877.m3u8
 #EXTINF:-1,LOS SIMPSONS 2
 http://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
+#EXTINF:-1,Tyc Sports1
+http://181.78.27.190:5350/play/a00w
+
+#EXTINF:-1,Tyc Sports2 
+http://170.83.242.10:5350/play/a00w
+
+#EXTINF:-1,Tyc Sports3
+http://159.89.238.35:8000/play/a09c/index.m3u8
