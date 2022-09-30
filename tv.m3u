@@ -11,40 +11,63 @@ http://45.71.200.254:8000/play/a0fz/index.m3u8
 http://45.71.200.254:8000/play/a0hs/index.m3u8
 #EXTINF:-1 tvg-logo="http://45.71.200.254:8000/playlist/tvg-logo/a03k.png",Tooncast
 http://45.71.200.254:8000/play/a03k/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.71.200.254:8000/playlist/tvg-logo/a0kz.png",Claro Sports HD
+#EXTINF:-1,Claro Sports HD
+#EXTGRP:Deportes
 http://45.71.200.254:8000/play/a0kz/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.71.200.254:8000/playlist/tvg-logo/a0gl.png",ESPN +
+#EXTINF:-1,ESPN +
+#EXTGRP:Deportes
 http://45.71.200.254:8000/play/a0gl/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.71.200.254:8000/playlist/tvg-logo/a0ki.png",ESPN 2 HD
+#EXTINF:-1,ESPN MX 2 HD
+#EXTGRP:Deportes
 http://45.71.200.254:8000/play/a0ki/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.71.200.254:8000/playlist/tvg-logo/a0kh.png",ESPN 3 HD
+#EXTINF:-1,ESPN MX 3 HD
+#EXTGRP:Deportes
 http://45.71.200.254:8000/play/a0kh/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.71.200.254:8000/playlist/tvg-logo/a0ix.png",ESPN 4 HD
-http://45.71.200.254:8000/play/a0ix/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.71.200.254:8000/playlist/tvg-logo/a0kg.png",ESPN HD
+#EXTINF:-1,ESPN HD
+#EXTGRP:Deportes
 http://45.71.200.254:8000/play/a0kg/index.m3u8
 #EXTINF:-1,ESPN
+#EXTGRP:Deportes
 http://45.233.169.1:8000/play/a006
 #EXTINF:-1,ESPN 2
+#EXTGRP:Deportes
 http://45.233.169.1:8000/play/a007
 #EXTINF:-1,ESPN 3
+#EXTGRP:Deportes
 http://45.233.169.1:8000/play/a008
+#EXTINF:-1,ESPN 4 HD
+#EXTGRP:Deportes
+http://45.71.200.254:8000/play/a0ix/index.m3u8
 #EXTINF:-1,Bein Sports
+#EXTGRP:Deportes
 http://tv.teleclub.xyz/stream/Deportes/BEING_SPORTS/index.m3u8
 #EXTINF:-1,DirecTv Arg
+#EXTGRP:Deportes
 http://tv.teleclub.xyz/stream/Deportes/DIRECTV/index.m3u8
 #EXTINF:-1,Bein Sports
+#EXTGRP:Deportes
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_2.m3u8
-#EXTINF:-1 tvg-logo="http://45.71.200.254:8000/playlist/tvg-logo/a0ht.png",FOX SPORTS 2 HD
+#EXTINF:-1,FOX SPORTS 2 HD
+#EXTGRP:Deportes
 http://45.71.200.254:8000/play/a0ht/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.71.200.254:8000/playlist/tvg-logo/a0kj.png",FOX SPORTS 3 HD
+#EXTINF:-1,FOX SPORTS 3 HD
+#EXTGRP:Deportes
 http://45.71.200.254:8000/play/a0kj/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.71.200.254:8000/playlist/tvg-logo/a0h1.png",Golf Channel HD
-http://45.71.200.254:8000/play/a0h1/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.71.200.254:8000/playlist/tvg-logo/a03j.png",Latin America Sport
+#EXTINF:-1,Latin America Sport
+#EXTGRP:Deportes
 http://45.71.200.254:8000/play/a03j/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.71.200.254:8000/playlist/tvg-logo/a02v.png",Tigo Sports HD
+#EXTINF:-1,Tigo Sports HD
+#EXTGRP:Deportes
 http://45.71.200.254:8000/play/a02v/index.m3u8
+#EXTINF:-1,Win Sports+ HD
+#EXTGRP:Deportes
+http://200.41.79.165:8000/play/a0js
+#EXTINF:-1,GolTV HD
+#EXTGRP:Deportes
+http://160.20.164.171:8001/play/a03x
+#EXTINF:-1,Tyc Sports
+#EXTGRP:Deportes
+http://181.78.27.190:5350/play/a00w
 #EXTINF:-1 tvg-logo="http://45.71.200.254:8000/playlist/tvg-logo/a0hv.png",DISCOVERY THEATHER HD
 http://45.71.200.254:8000/play/a0hv/index.m3u8
 #EXTINF:-1 tvg-logo="http://45.71.200.254:8000/playlist/tvg-logo/a0kn.png",Discovery Channel HD
@@ -147,10 +170,6 @@ http://45.71.200.254:8000/play/a0hh/index.m3u8
 http://45.71.200.254:8000/play/a0ih/index.m3u8
 #EXTINF:-1 tvg-logo="http://45.71.200.254:8000/playlist/tvg-logo/a0ho.png",WARNER HD
 http://45.71.200.254:8000/play/a0ho/index.m3u8
-#EXTINF:-1,Win Sports+ HD
-http://200.41.79.165:8000/play/a0js
-#EXTINF:-1,GolTV HD
-http://160.20.164.171:8001/play/a03x
 #EXTINF:-1,BRAZZERS HD
 http://95.211.250.58/BRAZZERS/index.m3u8
 #EXTINF:-1,HUSTLER HD
@@ -161,11 +180,3 @@ http://195.154.185.179/xx_penthouse_gold_hd/index.m3u8
 https://videostreaming.cloudserverlatam.com/CSTV/CSTV/chunklist_w2098039877.m3u8
 #EXTINF:-1,LOS SIMPSONS 2
 http://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
-#EXTINF:-1,Tyc Sports1
-http://181.78.27.190:5350/play/a00w
-
-#EXTINF:-1,Tyc Sports2 
-http://170.83.242.10:5350/play/a00w
-
-#EXTINF:-1,Tyc Sports3
-http://159.89.238.35:8000/play/a09c/index.m3u8
