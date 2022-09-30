@@ -47,6 +47,15 @@ http://tv.teleclub.xyz/stream/Deportes/DIRECTV/index.m3u8
 #EXTINF:-1,Bein Sports
 #EXTGRP:Deportes
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_2.m3u8
+#EXTINF:-1,Fox Sports 1
+#EXTGRP:Deportes
+http://170.83.242.10:5350/play/a01h
+#EXTINF:-1,Fox Sports 2
+#EXTGRP:Deportes
+http://170.83.242.10:5350/play/a013
+#EXTINF:-1,Fox Sports 3
+#EXTGRP:Deportes
+http://170.83.242.10:5350/play/a014
 #EXTINF:-1,FOX SPORTS 2 HD
 #EXTGRP:Deportes
 http://45.71.200.254:8000/play/a0ht/index.m3u8
