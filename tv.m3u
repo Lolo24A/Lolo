@@ -194,3 +194,25 @@ http://195.154.185.179/xx_penthouse_gold_hd/index.m3u8
 https://videostreaming.cloudserverlatam.com/CSTV/CSTV/chunklist_w2098039877.m3u8
 #EXTINF:-1,LOS SIMPSONS 2
 http://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
+#EXTINF:-1,Win Sports
+#EXTGRP:Deportes
+http://8.243.127.178:8000/play/a01i
+#EXTINF:-1,Tnt Sports
+#EXTGRP:Deportes
+http://8.243.127.178:8000/play/a01f
+#EXTINF:-1,ECDF
+#EXTGRP:Deportes
+http://8.243.127.178:8000/play/a035
+#EXTINF:-1,Gol Perú
+#EXTGRP:Deportes
+http://8.243.127.178:8000/play/a013
+#EXTINF:-1,Tyc Sports
+#EXTGRP:Deportes
+http://8.243.127.178:8000/play/a012
+#EXTINF:-1,Movistar Deportes
+#EXTGRP:Deportes
+http://8.243.127.178:8000/play/a00t
+#EXTINF:-1,Playboy
+http://8.243.127.178:8000/play/a026
+#EXTINF:-1,Playboy HD
+http://8.243.127.178:8000/play/a02b
