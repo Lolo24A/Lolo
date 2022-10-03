@@ -219,4 +219,25 @@ http://8.243.127.178:8000/play/a00t
 http://8.243.127.178:8000/play/a026
 #EXTINF:-1,Playboy HD
 http://8.243.127.178:8000/play/a02b
-
+#EXTINF:1,#EXTINF:-1,STAR CHANNEL HD
+http://186.3.216.78:9955/play/a0yo/index.m3u8
+#EXTINF:1,#EXTINF:-1,Sony HD
+http://186.3.216.78:9955/play/a10j/index.m3u8
+#EXTINF:1,#EXTINF:-1,Space HD
+http://186.3.216.78:9955/play/a10m/index.m3u8
+#EXTINF:1,#EXTINF:-1,Studio Universal HD
+http://186.3.216.78:9955/play/a0za/index.m3u8
+#EXTINF:1,#EXTINF:-1,TNT HD
+http://186.3.216.78:9955/play/a0y9/index.m3u8
+#EXTINF:1,#EXTINF:-1,TNT Series HD
+http://186.3.216.78:9955/play/a0yw/index.m3u8
+#EXTINF:1,#EXTINF:-1,UNIVERSAL CINEMA ESTE HD
+http://186.3.216.78:9955/play/a144/index.m3u8
+#EXTINF:1,#EXTINF:-1,Univision HD
+http://186.3.216.78:9955/play/a142/index.m3u8
+#EXTINF:1,#EXTINF:-1,Warner Channel HD
+http://186.3.216.78:9955/play/a10k/index.m3u8
+#EXTINF:1,#EXTINF:-1,Win Sports HD
+http://186.3.216.78:9955/play/a10q/index.m3u8
+#EXTINF:1,#EXTINF:-1,Win Sports+ HD
+http://186.3.216.78:9955/play/a0ze/index.m3u8
