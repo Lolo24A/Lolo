@@ -113,9 +113,9 @@ http://45.71.200.254:8000/play/a0gk/index.m3u8
 http://45.71.200.254:8000/play/a0hp/index.m3u8
 #EXTINF:-1 tvg-logo="http://45.71.200.254:8000/playlist/tvg-logo/a03s.png",SONY MOVIES HD
 http://45.71.200.254:8000/play/a03s/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.71.200.254:8000/playlist/tvg-logo/a0hn.png",STAR CHANNEL HD
-http://45.71.200.254:8000/play/a0hn/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.71.200.254:8000/playlist/tvg-logo/a0hn.png",STAR CHANNEL
+#EXTINF:-1,STAR CHANNEL HD
+http://8.243.127.178:8000/play/a01n
+#EXTINF:-1,STAR CHANNEL
 http://170.83.242.10:5350/play/a037
 #EXTINF:-1 tvg-logo="http://45.71.200.254:8000/playlist/tvg-logo/a0g4.png",STAR LIFE
 http://45.71.200.254:8000/play/a0g4/index.m3u8
@@ -219,6 +219,4 @@ http://8.243.127.178:8000/play/a00t
 http://8.243.127.178:8000/play/a026
 #EXTINF:-1,Playboy HD
 http://8.243.127.178:8000/play/a02b
-#EXTINF:-1,Directv Ar
-#EXTGRP:Deportes
-http://todoplus.digital:8080/Inspira.cl/xzSawstxNT/9083
+
