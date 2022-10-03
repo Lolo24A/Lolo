@@ -28,13 +28,16 @@ http://45.71.200.254:8000/play/a0kh/index.m3u8
 http://45.71.200.254:8000/play/a0kg/index.m3u8
 #EXTINF:-1,ESPN
 #EXTGRP:Deportes
-http://45.233.169.1:8000/play/a006
+http://8.243.127.178:8000/play/a029
 #EXTINF:-1,ESPN 2
 #EXTGRP:Deportes
-http://45.233.169.1:8000/play/a007
+http://8.243.127.178:8000/play/a00h
 #EXTINF:-1,ESPN 3
 #EXTGRP:Deportes
-http://45.233.169.1:8000/play/a008
+http://8.243.127.178:8000/play/a00b
+#EXTINF:-1,Espn4
+#EXTGRP:Deportes
+http://8.243.127.178:8000/play/a023
 #EXTINF:-1,ESPN 4 HD
 #EXTGRP:Deportes
 http://45.71.200.254:8000/play/a0ix/index.m3u8
@@ -52,10 +55,10 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master_2.m3u8
 http://170.83.242.10:5350/play/a01h
 #EXTINF:-1,Fox Sports 2
 #EXTGRP:Deportes
-http://170.83.242.10:5350/play/a013
+http://8.243.127.178:8000/play/a024
 #EXTINF:-1,Fox Sports 3
 #EXTGRP:Deportes
-http://170.83.242.10:5350/play/a014
+http://8.243.127.178:8000/play/a00c
 #EXTINF:-1,FOX SPORTS 2 HD
 #EXTGRP:Deportes
 http://45.71.200.254:8000/play/a0ht/index.m3u8
@@ -73,7 +76,7 @@ http://45.71.200.254:8000/play/a02v/index.m3u8
 http://200.41.79.165:8000/play/a0js
 #EXTINF:-1,GolTV HD
 #EXTGRP:Deportes
-http://160.20.164.171:8001/play/a03x
+http://8.243.127.178:8000/play/a00z
 #EXTINF:-1,GolTV
 #EXTGRP:Deportes
 http://170.83.242.10:5350/play/a00v
