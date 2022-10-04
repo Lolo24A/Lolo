@@ -89,9 +89,9 @@ http://186.3.216.78:9955/play/a104/index.m3u8
 #EXTINF:-1, Cartoon Network HD
 http://186.3.216.78:9955/play/a0z8/index.m3u8
 #EXTINF:-1,Cinecanal HD
-http://186.3.216.78:9955/play/a0z4/index.m3u8
+http://8.243.127.178:8000/play/a02o
 #EXTINF:-1,Cinemax HD
-http://186.3.216.78:9955/play/a0yf/index.m3u8
+http://8.243.127.178:8000/play/a00l
 #EXTINF:-1,Comedy Central HD
 http://186.3.216.78:9955/play/a124/index.m3u8
 #EXTINF:-1,Discovery H&H HD
@@ -121,13 +121,13 @@ http://186.3.216.78:9955/play/a140/index.m3u8
 #EXTINF:-1,FX HD
 http://186.3.216.78:9955/play/a0yx/index.m3u8
 #EXTINF:-1,Golden Edge
-http://186.3.216.78:9955/play/a134/index.m3u8
+http://8.243.127.178:8000/play/a00v
 #EXTINF:-1,Golden Premiere 2 HD
 http://186.3.216.78:9955/play/a120/index.m3u8
 #EXTINF:-1,Golden Premiere HD
 http://186.3.216.78:9955/play/a11z/index.m3u8
 #EXTINF:-1,HBO HD
-http://186.3.216.78:9955/play/a12y/index.m3u8
+http://8.243.127.178:8000/play/a02r
 #EXTINF:-1,HBO POP HD
 http://186.3.216.78:9955/play/a10p/index.m3u8
 #EXTINF:-1,HBO Plus HD
@@ -140,14 +140,10 @@ http://186.3.216.78:9955/play/a12z/index.m3u8
 http://186.3.216.78:9955/play/a109/index.m3u8
 #EXTINF:-1,History Channel HD
 http://186.3.216.78:9955/play/a10h/index.m3u8
-#EXTINF:-1,Las Estrellas HD
-http://186.3.216.78:9955/play/a105/index.m3u8
 #EXTINF:-1,Nat Geo HD
 http://186.3.216.78:9955/play/a141/index.m3u8
 #EXTINF:-1,Paramount HD
-http://186.3.216.78:9955/play/a0z9/index.m3u8
-#EXTINF:-1,Pasiones HD
-http://186.3.216.78:9955/play/a0y6/index.m3u8
+http://8.243.127.178:8000/play/a02v
 #EXTINF:-1,STAR CHANNEL HD
 http://8.243.127.178:8000/play/a01n
 #EXTINF:-1,Sony HD
@@ -155,17 +151,15 @@ http://186.3.216.78:9955/play/a10j/index.m3u8
 #EXTINF:-1,Space HD
 http://8.243.127.178:8000/play/a01e
 #EXTINF:-1,Studio Universal HD
-http://186.3.216.78:9955/play/a0za/index.m3u8
+http://8.243.127.178:8000/play/a02w
 #EXTINF:-1,TNT HD
-http://186.3.216.78:9955/play/a0y9/index.m3u8
+http://8.243.127.178:8000/play/a00a
 #EXTINF:-1,TNT Series HD
 http://186.3.216.78:9955/play/a0yw/index.m3u8
-#EXTINF:-1,UNIVERSAL CINEMA ESTE HD
-http://186.3.216.78:9955/play/a144/index.m3u8
-#EXTINF:-1,Univision HD
-http://186.3.216.78:9955/play/a142/index.m3u8
+#EXTINF:-1,UNIVERSAL CINEMA HD
+http://8.243.127.178:8000/play/a021
 #EXTINF:-1,Warner Channel HD
-http://186.3.216.78:9955/play/a10k/index.m3u8
+http://8.243.127.178:8000/play/a038
 #EXTINF:-1,Win Sports HD
 http://186.3.216.78:9955/play/a10q/index.m3u8
 #EXTINF:-1,Win Sports+ HD
