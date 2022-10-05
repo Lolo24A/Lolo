@@ -8,7 +8,7 @@ http://195.154.185.179/xx_penthouse_gold_hd/index.m3u8
 #EXTINF:-1,Playboy
 http://82.197.214.59:4000/play/a02i/index.m3u8
 #EXTINF:-1,Playboy HD
-http://190.149.66.90:8000/play/a0ed/index.m3u8
+http://8.243.127.178:8000/play/a023
 #EXTINF:-1,LOS SIMPSONS 1
 https://videostreaming.cloudserverlatam.com/CSTV/CSTV/chunklist_w2098039877.m3u8
 #EXTINF:-1,LOS SIMPSONS 2
@@ -24,37 +24,37 @@ http://tv.teleclub.xyz/stream/Deportes/BEING_SPORTS/index.m3u8
 http://tv.teleclub.xyz/stream/Deportes/DIRECTV/index.m3u8
 #EXTINF:-1,ECDF
 #EXTGRP:Deportes
-http://8.243.127.178:8000/play/a035
+http://186.3.216.78:9955/play/a0zv/index.m3u8
 #EXTINF:-1,ESPN
 #EXTGRP:Deportes
 http://8.243.127.178:8000/play/a029
 #EXTINF:-1,ESPN 2
 #EXTGRP:Deportes
-http://8.243.127.178:8000/play/a00h
+http://8.243.127.178:8000/play/a00v
 #EXTINF:-1,ESPN 3
 #EXTGRP:Deportes
-http://8.243.127.178:8000/play/a00b
+
 #EXTINF:-1,Espn 4
 #EXTGRP:Deportes
-http://8.243.127.178:8000/play/a023
+http://170.83.242.10:5350/play/a01h
 #EXTINF:-1,ESPN 4 HD
 #EXTGRP:Deportes
 http://45.71.200.254:8000/play/a0ix/index.m3u8
 #EXTINF:-1,Fox Sports 1
 #EXTGRP:Deportes
-http://170.83.242.10:5350/play/a01h
+http://8.243.127.178:8000/play/a035
 #EXTINF:-1,Fox Sports 2
 #EXTGRP:Deportes
-http://8.243.127.178:8000/play/a024
+http://8.243.127.178:8000/play/a021
 #EXTINF:-1,Fox Sports 3
 #EXTGRP:Deportes
-http://8.243.127.178:8000/play/a00c
+
 #EXTINF:-1,Gol Perú
 #EXTGRP:Deportes
-http://8.243.127.178:8000/play/a013
+
 #EXTINF:-1,GolTV HD
 #EXTGRP:Deportes
-http://8.243.127.178:8000/play/a00z
+http://8.243.127.178:8000/play/a00c
 #EXTINF:-1,GolTV
 #EXTGRP:Deportes
 http://170.83.242.10:5350/play/a00v
@@ -66,13 +66,13 @@ http://8.243.127.178:8000/play/a00t
 http://181.78.27.190:5350/play/a00w
 #EXTINF:-1,Tyc Sports
 #EXTGRP:Deportes
-http://8.243.127.178:8000/play/a012
+http://8.243.127.178:8000/play/a00h
 #EXTINF:-1,Tnt Sports
 #EXTGRP:Deportes
-http://8.243.127.178:8000/play/a01f
+
 #EXTINF:-1,Win Sports
 #EXTGRP:Deportes
-http://8.243.127.178:8000/play/a01i
+http://8.243.127.178:8000/play/a02v
 #EXTINF:-1,Win Sports+
 #EXTGRP:Deportes
 http://200.41.79.165:8000/play/a0js
@@ -91,7 +91,7 @@ http://186.3.216.78:9955/play/a0z8/index.m3u8
 #EXTINF:-1,Cinecanal HD
 http://8.243.127.178:8000/play/a02o
 #EXTINF:-1,Cinemax HD
-http://8.243.127.178:8000/play/a00l
+http://8.243.127.178:8000/play/a01n
 #EXTINF:-1,Comedy Central HD
 http://186.3.216.78:9955/play/a124/index.m3u8
 #EXTINF:-1,Discovery H&H HD
@@ -113,7 +113,7 @@ http://186.3.216.78:9955/play/a0yr/index.m3u8
 #EXTINF:-1,ESPN HD
 http://186.3.216.78:9955/play/a13x/index.m3u8
 #EXTINF:-1,ElCanaldelFutbol HD
-http://186.3.216.78:9955/play/a0zv/index.m3u8
+
 #EXTINF:-1,FOX SPORTS 2 HD
 http://186.3.216.78:9955/play/a123/index.m3u8
 #EXTINF:-1,FOX SPORTS 3 HD
@@ -121,7 +121,7 @@ http://186.3.216.78:9955/play/a140/index.m3u8
 #EXTINF:-1,FX HD
 http://186.3.216.78:9955/play/a0yx/index.m3u8
 #EXTINF:-1,Golden Edge
-http://8.243.127.178:8000/play/a00v
+
 #EXTINF:-1,Golden Premiere 2 HD
 http://186.3.216.78:9955/play/a120/index.m3u8
 #EXTINF:-1,Golden Premiere HD
@@ -132,8 +132,6 @@ http://8.243.127.178:8000/play/a02r
 http://186.3.216.78:9955/play/a10p/index.m3u8
 #EXTINF:-1,HBO Plus HD
 http://186.3.216.78:9955/play/a130/index.m3u8
-#EXTINF:-1,HBO XTREME
-http://186.3.216.78:9955/play/a13e/index.m3u8
 #EXTINF:-1,HBO2 HD
 http://186.3.216.78:9955/play/a12z/index.m3u8
 #EXTINF:-1,History 2 HD
@@ -143,23 +141,23 @@ http://186.3.216.78:9955/play/a10h/index.m3u8
 #EXTINF:-1,Nat Geo HD
 http://186.3.216.78:9955/play/a141/index.m3u8
 #EXTINF:-1,Paramount HD
-http://8.243.127.178:8000/play/a02v
+
 #EXTINF:-1,STAR CHANNEL HD
-http://8.243.127.178:8000/play/a01n
+http://8.243.127.178:8000/play/a012
 #EXTINF:-1,Sony HD
 http://186.3.216.78:9955/play/a10j/index.m3u8
 #EXTINF:-1,Space HD
-http://8.243.127.178:8000/play/a01e
+http://8.243.127.178:8000/play/a013
 #EXTINF:-1,Studio Universal HD
 http://8.243.127.178:8000/play/a02w
 #EXTINF:-1,TNT HD
-http://8.243.127.178:8000/play/a00a
+http://8.243.127.178:8000/play/a01f
 #EXTINF:-1,TNT Series HD
 http://186.3.216.78:9955/play/a0yw/index.m3u8
 #EXTINF:-1,UNIVERSAL CINEMA HD
-http://8.243.127.178:8000/play/a021
+
 #EXTINF:-1,Warner Channel HD
-http://8.243.127.178:8000/play/a038
+
 #EXTINF:-1,Win Sports HD
 http://186.3.216.78:9955/play/a10q/index.m3u8
 #EXTINF:-1,Win Sports+ HD
