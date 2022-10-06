@@ -10,7 +10,7 @@ http://82.197.214.59:4000/play/a02i/index.m3u8
 #EXTINF:-1,Playboy HD
 http://8.243.127.178:8000/play/a023
 #EXTINF:-1,LOS SIMPSONS 1
-https://videostreaming.cloudserverlatam.com/CSTV/CSTV/chunklist_w2098039877.m3u8
+http://tv.teleclub.xyz/stream/24_7/SIMPSONS_247/index.m3u8
 #EXTINF:-1,LOS SIMPSONS 2
 http://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 #EXTINF:-1,Bein Sports
@@ -18,6 +18,12 @@ http://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_2.m3u8
 #EXTINF:-1,Bein Sports
 #EXTGRP:Deportes
+#EXTINF:-1,Fox Sports Premiun
+#EXTGRP:Deportes
+http://tv.teleclub.xyz/stream/Deportes/FOXSPORTS_PREMIUM/index.m3u8
+#EXTINF:-1,DAZN 2
+#EXTGRP:Deportes
+
 http://tv.teleclub.xyz/stream/Deportes/BEING_SPORTS/index.m3u8
 #EXTINF:-1,DirecTv Arg
 #EXTGRP:Deportes
@@ -27,7 +33,7 @@ http://tv.teleclub.xyz/stream/Deportes/DIRECTV/index.m3u8
 http://186.3.216.78:9955/play/a0zv/index.m3u8
 #EXTINF:-1,ESPN
 #EXTGRP:Deportes
-http://8.243.127.178:8000/play/a029
+http://181.78.22.214:8000/play/a01c
 #EXTINF:-1,ESPN 2
 #EXTGRP:Deportes
 http://8.243.127.178:8000/play/a00v
@@ -48,16 +54,16 @@ http://8.243.127.178:8000/play/a021
 http://181.78.22.214:8000/play/a01w
 #EXTINF:-1,Gol Perú
 #EXTGRP:Deportes
-
+http://tv.teleclub.xyz/stream/Deportes/GOLPERU/index.m3u8
 #EXTINF:-1,GolTV HD
 #EXTGRP:Deportes
 http://8.243.127.178:8000/play/a00c
 #EXTINF:-1,GolTV
 #EXTGRP:Deportes
 http://170.83.242.10:5350/play/a00v
-#EXTINF:-1,Movistar Deportes
+#EXTINF:-1,Tnt Sports Br
 #EXTGRP:Deportes
-
+http://tv.teleclub.xyz/stream/Deportes/TNTSPORTS_BR/index.m3u8
 #EXTINF:-1,Tyc Sports
 #EXTGRP:Deportes
 http://181.78.27.190:5350/play/a00w
