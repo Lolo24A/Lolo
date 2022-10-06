@@ -32,7 +32,7 @@ http://tv.teleclub.xyz/stream/Deportes/DIRECTV/index.m3u8
 http://186.3.216.78:9955/play/a0zv/index.m3u8
 #EXTINF:-1,ESPN
 #EXTGRP:Deportes
-http://181.78.22.214:8000/play/a01c
+http://45.236.28.72:8000/play/a0fn/index.m3u8
 #EXTINF:-1,ESPN 2
 #EXTGRP:Deportes
 http://8.243.127.178:8000/play/a00v
@@ -165,3 +165,6 @@ http://186.3.216.78:9955/play/a0ze/index.m3u8
 http://89.187.173.219:80/daniel2022/daniel2022/4058
 #EXTINF:-1,Premiere HD
 #EXTGRP:Deporteshttp://89.187.173.219:80/daniel2022/daniel2022/4084
+#EXTINF:-1,Premiere 2 HD
+#EXTGRP:Deportes
+http://89.187.173.219:80/daniel2022/daniel2022/195
