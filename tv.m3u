@@ -21,9 +21,8 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master_2.m3u8
 #EXTINF:-1,Fox Sports Premiun
 #EXTGRP:Deportes
 http://tv.teleclub.xyz/stream/Deportes/FOXSPORTS_PREMIUM/index.m3u8
-#EXTINF:-1,DAZN 2
+#EXTINF:-1,Bein Sports Ñ
 #EXTGRP:Deportes
-
 http://tv.teleclub.xyz/stream/Deportes/BEING_SPORTS/index.m3u8
 #EXTINF:-1,DirecTv Arg
 #EXTGRP:Deportes
@@ -63,7 +62,7 @@ http://8.243.127.178:8000/play/a00c
 http://170.83.242.10:5350/play/a00v
 #EXTINF:-1,Tnt Sports Br
 #EXTGRP:Deportes
-http://tv.teleclub.xyz/stream/Deportes/TNTSPORTS_BR/index.m3u8
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
 #EXTINF:-1,Tyc Sports
 #EXTGRP:Deportes
 http://181.78.27.190:5350/play/a00w
