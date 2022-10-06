@@ -160,3 +160,8 @@ http://181.78.22.214:8000/play/a00w
 http://186.3.216.78:9955/play/a10q/index.m3u8
 #EXTINF:-1,Win Sports+ HD
 http://186.3.216.78:9955/play/a0ze/index.m3u8
+#EXTINF:-1,Sportv HD
+#EXTGRP:Deportes
+http://89.187.173.219:80/daniel2022/daniel2022/4058
+#EXTINF:-1,Premiere HD
+#EXTGRP:Deporteshttp://89.187.173.219:80/daniel2022/daniel2022/4084
