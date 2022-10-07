@@ -5,129 +5,137 @@ http://95.211.250.58/BRAZZERS/index.m3u8
 http://195.154.185.179/xx_hustler_hd/index.m3u8
 #EXTINF:-1,PENTHOUSE
 http://195.154.185.179/xx_penthouse_gold_hd/index.m3u8
-#EXTINF:-1,Playboy
+#EXTINF:-1,PLAYBOY 
 http://82.197.214.59:4000/play/a02i/index.m3u8
-#EXTINF:-1,Playboy HD
+#EXTINF:-1,PLAYBOY HD
 http://8.243.127.178:8000/play/a023
 #EXTINF:-1,LOS SIMPSONS 1
 http://tv.teleclub.xyz/stream/24_7/SIMPSONS_247/index.m3u8
 #EXTINF:-1,LOS SIMPSONS 2
 http://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
-#EXTINF:-1,Bein Sports
+#EXTINF:-1,BEIN SPORTS 
 #EXTGRP:Deportes
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_2.m3u8
-#EXTINF:-1,Bein Sports
-#EXTGRP:Deportes
-#EXTINF:-1,Fox Sports Premiun
+#EXTINF:-1,FOX SPORTS PREMIUM 
 #EXTGRP:Deportes
 http://tv.teleclub.xyz/stream/Deportes/FOXSPORTS_PREMIUM/index.m3u8
-#EXTINF:-1,
-#EXTGRP:Deportes
-
-#EXTINF:-1,DirecTv Arg
+#EXTINF:-1,DIRECTV Arg
 #EXTGRP:Deportes
 http://tv.teleclub.xyz/stream/Deportes/DIRECTV/index.m3u8
 #EXTINF:-1,ECDF
 #EXTGRP:Deportes
 http://186.3.216.78:9955/play/a0zv/index.m3u8
-#EXTINF:-1,ESPN
+#EXTINF:-1,ESPN SD Col
 #EXTGRP:Deportes
 http://181.78.22.214:8000/play/a01c
-#EXTINF:-1,ESPN 2
+#EXTINF:-1,ESPN SD Chi
+#EXTGRP:Deportes
+http://170.83.242.11:5350/play/a00u
+#EXTINF:-1,ESPN 2 SD
+#EXTGRP:Deportes
+http://170.83.242.11:5350/play/a00t
+#EXTINF:-1,ESPN 2 HD Arg
 #EXTGRP:Deportes
 http://8.243.127.178:8000/play/a00v
-#EXTINF:-1,ESPN 3
+#EXTINF:-1,ESPN 3 SD Arg
 #EXTGRP:Deportes
 http://181.78.22.214:8000/play/a01s
-#EXTINF:-1,Espn 4
+#EXTINF:-1,ESPN 4 HD Arg
 #EXTGRP:Deportes
 http://186.3.216.78:9955/play/a0yr/index.m3u8
-#EXTINF:-1,Fox Sports 1
+#EXTINF:-1,ESPN 4 SD Arg
 #EXTGRP:Deportes
-http://8.243.127.178:8000/play/a035
-#EXTINF:-1,Fox Sports 2
+http://170.83.242.11:5350/play/a01h
+#EXTINF:-1,FOX SPORTS 2 HD Arg
 #EXTGRP:Deportes
 http://8.243.127.178:8000/play/a021
-#EXTINF:-1,Fox Sports 3
+#EXTINF:1,FOX SPORTS 2 SD Arg
+#EXTGRP:Deportes 
+http://181.78.27.190:5350/play/a013
+#EXTINF:-1,FOX SPORTS 3 SD Arg
 #EXTGRP:Deportes
 http://181.78.22.214:8000/play/a01w
-#EXTINF:-1,GolTV HD
+#EXTINF:-1,ESPN HD Mex
+#EXTGRP:DEPORTES
+http://186.3.216.78:9955/play/a13x/index.m3u8
+#EXTINF:-1,ESPN 2 HD Mex
+#EXTGRP:Deportes
+http://186.3.216.78:9955/play/a13z/index.m3u8
+#EXTINF:-1,ESPN 3 HD Mex
+#EXTGRP:DEPORTES
+http://186.3.216.78:9955/play/a13y/index.m3u8
+#EXTINF:-1,FOX SPORTS 2 HD Mex
+#EXTGRP:DEPORTES
+http://186.3.216.78:9955/play/a123/index.m3u8
+#EXTINF:-1,FOX SPORTS 3 HD Mex
+#EXTGRP:DEPORTES
+http://186.3.216.78:9955/play/a140/index.m3u8
+#EXTINF:-1,GOLTV HD
 #EXTGRP:Deportes
 http://8.243.127.178:8000/play/a00c
-#EXTINF:-1,GolTV
+#EXTINF:-1,GOLTV SD
 #EXTGRP:Deportes
 http://170.83.242.10:5350/play/a00v
-#EXTINF:-1,Tnt Sports Br
+#EXTINF:-1,TNT SPORTS Br
 #EXTGRP:Deportes
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
-#EXTINF:-1,Tyc Sports
+#EXTINF:-1,TYC SPORTS SD
 #EXTGRP:Deportes
 http://181.78.27.190:5350/play/a00w
-#EXTINF:-1,Tyc Sports
+#EXTINF:-1,TYC SPORTS HD
 #EXTGRP:Deportes
 http://8.243.127.178:8000/play/a00h
-#EXTINF:-1,Tnt Sports
-#EXTGRP:Deportes
-
-#EXTINF:-1,Win Sports
+#EXTINF:-1,WIN SPORTS+ HD
 #EXTGRP:Deportes
 http://8.243.127.178:8000/play/a02v
-#EXTINF:-1,Win Sports+
+#EXTINF:-1,WIN SPORTS+ FHD
 #EXTGRP:Deportes
 http://200.41.79.165:8000/play/a0js
-#EXTINF:-1,
+#EXTINF:-1,WIN SPORTS HD
+#EXTGRP:Deportes 
+http://186.3.216.78:9955/play/a10q/index.m3u8
+#EXTINF:-1,Win Sports+ HD
+http://186.3.216.78:9955/play/a0ze/index.m3u8
+#EXTINF:-1,SPORTV HD
+#EXTGRP:Deportes
+http://89.187.173.219:80/daniel2022/daniel2022/4058
+#EXTINF:-1,PREMIERE SPORTS 
+#EXTGRP:Deporteshttp://89.187.173.219:80/daniel2022/daniel2022/4084
+#EXTINF:-1,PREMIERE HD
+#EXTGRP:Deportes
+http://89.187.173.219:80/daniel2022/daniel2022/195
+#EXTINF:-1,DAZN 1
+#EXTGRP:Deportes
+http://stalkertvlatinopanel.com:8080/play/fo1psOYxGrZ4xii1_-Mc-CyIYSR_8VsiEFBSKX_Lxe8/ts
+#EXTINF:-1,DIRECTV Chi
+#EXTGRP:Deportes
+http://stalkertvlatinopanel.com:8080/play/fo1psOYxGrZ4xii1_-Mc-OQkjwrUbZtMOvZHqbeqBHk/ts
+#EXTINF:-1,TNT SPORTS Chi
+#EXTGRP:Deportes
+http://stalkertvlatinopanel.com:8080/play/fo1psOYxGrZ4xii1_-Mc-JGSwA1a7VWP49izNA_xuH4/ts
 
-#EXTINF:-1,
-
-#EXTINF:-1,
 
 #EXTINF:-1,Animal Planet HD
 http://186.3.216.78:9955/play/a0zf/index.m3u8
-#EXTINF:-1,
-
-#EXTINF:-1,
-
 #EXTINF:-1,Cinecanal HD
-http://8.243.127.178:8000/play/a02o
+http://200.41.79.165:8000/play/a03z/index.m3u8
 #EXTINF:-1,Cinemax HD
 http://8.243.127.178:8000/play/a01n
-#EXTINF:-1,
-
-#EXTINF:-1,
-
 #EXTINF:-1,Discovery HD
 http://186.3.216.78:9955/play/a107/index.m3u8
 #EXTINF:-1,Discovery ID HD
 http://186.3.216.78:9955/play/a143/index.m3u8
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,ESPN 2 HD
-http://186.3.216.78:9955/play/a13z/index.m3u8
-#EXTINF:-1,ESPN 3 HD
-http://186.3.216.78:9955/play/a13y/index.m3u8
-#EXTINF:-1,ESPN HD
-http://186.3.216.78:9955/play/a13x/index.m3u8
-#EXTINF:-1,FOX SPORTS 2 HD
-http://186.3.216.78:9955/play/a123/index.m3u8
-#EXTINF:-1,FOX SPORTS 3 HD
-http://186.3.216.78:9955/play/a140/index.m3u8
-#EXTINF:-1,FX HD
+#EXTINF:-1,Fx HD
 http://186.3.216.78:9955/play/a0yx/index.m3u8
 #EXTINF:-1,Golden Edge
 http://186.3.216.78:9955/play/a134/index.m3u8
 #EXTINF:-1,Golden Premiere 2 HD
 http://186.3.216.78:9955/play/a120/index.m3u8
-#EXTINF:-1,
-
-#EXTINF:-1,HBO HD
+#EXTINF:-1,Hbo HD
 http://181.78.22.214:8000/play/a01h
-#EXTINF:-1,
-
-#EXTINF:-1,HBO2 HD
+#EXTINF:-1,Hbo2 HD
 http://181.78.22.214:8000/play/a00n
-#EXTINF:-1,HBO PLUS
+#EXTINF:-1,Hbo PLUS
 http://181.78.22.214:8000/play/a00o
 #EXTINF:-1,History 2 HD
 http://186.3.216.78:9955/play/a109/index.m3u8
@@ -135,9 +143,7 @@ http://186.3.216.78:9955/play/a109/index.m3u8
 http://186.3.216.78:9955/play/a10h/index.m3u8
 #EXTINF:-1,Nat Geo HD
 http://186.3.216.78:9955/play/a141/index.m3u8
-#EXTINF:-1,
-
-#EXTINF:-1,STAR CHANNEL HD
+#EXTINF:-1,Star Channel HD
 http://8.243.127.178:8000/play/a012
 #EXTINF:-1,Sony HD
 http://186.3.216.78:9955/play/a10j/index.m3u8
@@ -145,35 +151,9 @@ http://186.3.216.78:9955/play/a10j/index.m3u8
 http://8.243.127.178:8000/play/a00t
 #EXTINF:-1,Studio Universal HD
 http://8.243.127.178:8000/play/a02w
-#EXTINF:-1,TNT HD
+#EXTINF:-1,Tnt HD
 http://8.243.127.178:8000/play/a01f
-#EXTINF:-1,
-
-#EXTINF:-1,UNIVERSAL CINEMA HD
+#EXTINF:-1,Universal Cinema HD
 http://179.1.64.210:8090/play/a00y/index.m3u8
 #EXTINF:-1,Warner Channel HD
 http://181.78.22.214:8000/play/a00w
-#EXTINF:-1,Win Sports HD
-http://186.3.216.78:9955/play/a10q/index.m3u8
-#EXTINF:-1,Win Sports+ HD
-http://186.3.216.78:9955/play/a0ze/index.m3u8
-#EXTINF:-1,Sportv HD
-#EXTGRP:Deportes
-http://89.187.173.219:80/daniel2022/daniel2022/4058
-#EXTINF:-1,Premiere Sports 
-#EXTGRP:Deporteshttp://89.187.173.219:80/daniel2022/daniel2022/4084
-#EXTINF:-1,Premiere 2 HD
-#EXTGRP:Deportes
-http://89.187.173.219:80/daniel2022/daniel2022/195
-#EXTINF:-1,Dazn 
-#EXTGRP:Deportes
-http://stalkertvlatinopanel.com:8080/play/fo1psOYxGrZ4xii1_-Mc-CyIYSR_8VsiEFBSKX_Lxe8/ts
-#EXTINF:-1,Directv 
-#EXTGRP:Deportes
-http://stalkertvlatinopanel.com:8080/play/fo1psOYxGrZ4xii1_-Mc-OQkjwrUbZtMOvZHqbeqBHk/ts
-#EXTINF:-1,Tnt Sports Chile 
-#EXTGRP:Deportes
-http://stalkertvlatinopanel.com:8080/play/fo1psOYxGrZ4xii1_-Mc-JGSwA1a7VWP49izNA_xuH4/ts
-#EXTINF:-1,La Liga Tv 
-#EXTGRP:Deportes
-http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/48447
