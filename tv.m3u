@@ -51,9 +51,6 @@ http://8.243.127.178:8000/play/a021
 #EXTINF:-1,Fox Sports 3
 #EXTGRP:Deportes
 http://181.78.22.214:8000/play/a01w
-#EXTINF:-1,Gol Perú
-#EXTGRP:Deportes
-
 #EXTINF:-1,GolTV HD
 #EXTGRP:Deportes
 http://8.243.127.178:8000/play/a00c
@@ -163,7 +160,7 @@ http://186.3.216.78:9955/play/a0ze/index.m3u8
 #EXTINF:-1,Sportv HD
 #EXTGRP:Deportes
 http://89.187.173.219:80/daniel2022/daniel2022/4058
-#EXTINF:-1,Premiere HD
+#EXTINF:-1,Premiere Sports 
 #EXTGRP:Deporteshttp://89.187.173.219:80/daniel2022/daniel2022/4084
 #EXTINF:-1,Premiere 2 HD
 #EXTGRP:Deportes
@@ -171,12 +168,12 @@ http://89.187.173.219:80/daniel2022/daniel2022/195
 #EXTINF:-1,Dazn 
 #EXTGRP:Deportes
 http://stalkertvlatinopanel.com:8080/play/fo1psOYxGrZ4xii1_-Mc-CyIYSR_8VsiEFBSKX_Lxe8/ts
-
-
 #EXTINF:-1,Directv 
 #EXTGRP:Deportes
 http://stalkertvlatinopanel.com:8080/play/fo1psOYxGrZ4xii1_-Mc-OQkjwrUbZtMOvZHqbeqBHk/ts
-
 #EXTINF:-1,Tnt Sports Chile 
 #EXTGRP:Deportes
 http://stalkertvlatinopanel.com:8080/play/fo1psOYxGrZ4xii1_-Mc-JGSwA1a7VWP49izNA_xuH4/ts
+#EXTINF:-1,La Liga Tv 
+#EXTGRP:Deportes
+http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/48447
