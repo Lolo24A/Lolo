@@ -168,3 +168,15 @@ http://89.187.173.219:80/daniel2022/daniel2022/4058
 #EXTINF:-1,Premiere 2 HD
 #EXTGRP:Deportes
 http://89.187.173.219:80/daniel2022/daniel2022/195
+#EXTINF:-1,Dazn 
+#EXTGRP:Deportes
+http://stalkertvlatinopanel.com:8080/play/fo1psOYxGrZ4xii1_-Mc-CyIYSR_8VsiEFBSKX_Lxe8/ts
+
+
+#EXTINF:-1,Directv 
+#EXTGRP:Deportes
+http://stalkertvlatinopanel.com:8080/play/fo1psOYxGrZ4xii1_-Mc-OQkjwrUbZtMOvZHqbeqBHk/ts
+
+#EXTINF:-1,Tnt Sports Chile 
+#EXTGRP:Deportes
+http://stalkertvlatinopanel.com:8080/play/fo1psOYxGrZ4xii1_-Mc-JGSwA1a7VWP49izNA_xuH4/ts
