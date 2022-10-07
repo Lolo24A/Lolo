@@ -25,18 +25,21 @@ http://tv.teleclub.xyz/stream/Deportes/DIRECTV/index.m3u8
 #EXTINF:-1,ECDF
 #EXTGRP:Deportes
 http://186.3.216.78:9955/play/a0zv/index.m3u8
+#EXTINF:-1,ESPN HD Col
+#EXTGRP:Deportes
+http://181.175.41.170:8000/play/a0j8
 #EXTINF:-1,ESPN SD Col
 #EXTGRP:Deportes
 http://181.78.22.214:8000/play/a01c
 #EXTINF:-1,ESPN SD Chi
 #EXTGRP:Deportes
 http://170.83.242.11:5350/play/a00u
-#EXTINF:-1,ESPN 2 SD
-#EXTGRP:Deportes
-http://170.83.242.11:5350/play/a00t
 #EXTINF:-1,ESPN 2 HD Arg
 #EXTGRP:Deportes
 http://8.243.127.178:8000/play/a00v
+#EXTINF:-1,ESPN 2 SD
+#EXTGRP:Deportes
+http://170.83.242.11:5350/play/a00t
 #EXTINF:-1,ESPN 3 SD Arg
 #EXTGRP:Deportes
 http://181.78.22.214:8000/play/a01s
@@ -46,12 +49,18 @@ http://186.3.216.78:9955/play/a0yr/index.m3u8
 #EXTINF:-1,ESPN 4 SD Arg
 #EXTGRP:Deportes
 http://170.83.242.11:5350/play/a01h
+#EXTINF:-1,FOX SPORTS 1 HD Arg
+#EXTGRP:Deportes 
+http://181.175.41.170:8000/play/a0i7
 #EXTINF:-1,FOX SPORTS 2 HD Arg
 #EXTGRP:Deportes
 http://8.243.127.178:8000/play/a021
 #EXTINF:1,FOX SPORTS 2 SD Arg
 #EXTGRP:Deportes 
 http://181.78.27.190:5350/play/a013
+#EXTINF:-1,FOX SPORTS 3 HD Arg
+#EXTGRP:Deportes
+http://181.175.41.170:8000/play/a0go
 #EXTINF:-1,FOX SPORTS 3 SD Arg
 #EXTGRP:Deportes
 http://181.78.22.214:8000/play/a01w
@@ -63,19 +72,28 @@ http://186.3.216.78:9955/play/a13x/index.m3u8
 http://186.3.216.78:9955/play/a13z/index.m3u8
 #EXTINF:-1,ESPN 3 HD Mex
 #EXTGRP:DEPORTES
-http://186.3.216.78:9955/play/a13y/index.m3u8
+http://181.175.41.170:8000/play/a0gm
 #EXTINF:-1,FOX SPORTS 2 HD Mex
 #EXTGRP:DEPORTES
 http://186.3.216.78:9955/play/a123/index.m3u8
 #EXTINF:-1,FOX SPORTS 3 HD Mex
 #EXTGRP:DEPORTES
 http://186.3.216.78:9955/play/a140/index.m3u8
+#EXTINF:-1,GOL PERU HD
+#EXTGRP:Deportes
+http://181.175.41.170:8000/play/a0i3
 #EXTINF:-1,GOLTV HD
 #EXTGRP:Deportes
 http://8.243.127.178:8000/play/a00c
 #EXTINF:-1,GOLTV SD
 #EXTGRP:Deportes
 http://170.83.242.10:5350/play/a00v
+#EXTINF:-1,MOVISTAR DEPORTES Per
+#EXTGRP:Deportes
+http://181.175.41.170:8000/play/a0i2
+#EXTINF:-1,TIGO SPORTS CR
+#EXTGRP:Deportes
+http://181.175.41.170:8000/play/a0g4
 #EXTINF:-1,TNT SPORTS Br
 #EXTGRP:Deportes
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
@@ -118,7 +136,7 @@ http://stalkertvlatinopanel.com:8080/play/fo1psOYxGrZ4xii1_-Mc-JGSwA1a7VWP49izNA
 #EXTINF:-1,Animal Planet HD
 http://186.3.216.78:9955/play/a0zf/index.m3u8
 #EXTINF:-1,Cinecanal HD
-http://200.41.79.165:8000/play/a03z/index.m3u8
+http://181.175.41.170:8000/play/a0g3
 #EXTINF:-1,Cinemax HD
 http://8.243.127.178:8000/play/a01n
 #EXTINF:-1,Discovery HD
@@ -132,7 +150,7 @@ http://186.3.216.78:9955/play/a134/index.m3u8
 #EXTINF:-1,Golden Premiere 2 HD
 http://186.3.216.78:9955/play/a120/index.m3u8
 #EXTINF:-1,Hbo HD
-http://181.78.22.214:8000/play/a01h
+http://181.175.41.170:8000/play/a0dz
 #EXTINF:-1,Hbo2 HD
 http://181.78.22.214:8000/play/a00n
 #EXTINF:-1,Hbo PLUS
@@ -156,4 +174,4 @@ http://8.243.127.178:8000/play/a01f
 #EXTINF:-1,Universal Cinema HD
 http://179.1.64.210:8090/play/a00y/index.m3u8
 #EXTINF:-1,Warner Channel HD
-http://181.78.22.214:8000/play/a00w
+http://181.175.41.170:8000/play/a0g1
