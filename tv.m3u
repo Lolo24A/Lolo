@@ -97,6 +97,9 @@ http://181.175.41.170:8000/play/a0g4
 #EXTINF:-1,TNT SPORTS Br
 #EXTGRP:Deportes
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
+#EXTINF:-1,TNT SPORTS 2 Br
+#EXTGRP:Deportes
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
 #EXTINF:-1,TYC SPORTS SD
 #EXTGRP:Deportes
 http://181.78.27.190:5350/play/a00w
