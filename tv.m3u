@@ -22,6 +22,15 @@ http://tv.teleclub.xyz/stream/Deportes/FOXSPORTS_PREMIUM/index.m3u8
 #EXTINF:-1,DIRECTV Arg
 #EXTGRP:Deportes
 http://tv.teleclub.xyz/stream/Deportes/DIRECTV/index.m3u8
+#EXTINF:-1,DIRECTV Per
+#EXTGRP:Deportes
+http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/3219
+#EXTINF:-1,DIRECTV 2
+#EXTGRP:Deportes
+http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/1048
+#EXTINF:-1,DIRECTV Plus+
+#EXTGRP:Deportes
+http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/1046
 #EXTINF:-1,ECDF
 #EXTGRP:Deportes
 http://186.3.216.78:9955/play/a0zv/index.m3u8
@@ -120,24 +129,42 @@ http://186.3.216.78:9955/play/a0ze/index.m3u8
 #EXTINF:-1,SPORTV HD
 #EXTGRP:Deportes
 http://89.187.173.219:80/daniel2022/daniel2022/4058
+#EXTINF:-1,SPORTV SD
+#EXTGRP:Deportes
+http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/3512
 #EXTINF:-1,PREMIERE SPORTS 
-#EXTGRP:Deporteshttp://89.187.173.219:80/daniel2022/daniel2022/4084
+#EXTGRP:Deportes
+http://89.187.173.219:80/daniel2022/daniel2022/4084
+EXTINF:-1,PREMIERE SPORTS HD 
+#EXTGRP:Deportes
+http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/3519
 #EXTINF:-1,PREMIERE HD
 #EXTGRP:Deportes
 http://89.187.173.219:80/daniel2022/daniel2022/195
-#EXTINF:-1,DAZN 1*
+#EXTINF:-1,DAZN 1
 #EXTGRP:Deportes
-http://stalkertvlatinopanel.com:8080/play/fo1psOYxGrZ4xii1_-Mc-CyIYSR_8VsiEFBSKX_Lxe8/ts
-#EXTINF:-1,DIRECTV Chi*
+http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/3322
+#EXTINF:-1,DAZN 2
 #EXTGRP:Deportes
-http://stalkertvlatinopanel.com:8080/play/fo1psOYxGrZ4xii1_-Mc-OQkjwrUbZtMOvZHqbeqBHk/ts
+http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/3323
+#EXTINF:-1,DAZN 3
+#EXTGRP:Deportes
+http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/3324
+#EXTINF:-1,DAZN 4
+#EXTGRP:Deportes
+http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/3325
+#EXTINF:-1,TNT SPORTS 1 Chi
+#EXTGRP:Deportes
+http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/3391
 #EXTINF:-1,TNT SPORTS 2 Chi
 #EXTGRP:Deportes
 http://45.162.135.1:1080/play/a037
 #EXTINF:-1,TNT SPORTS 3 Chi
 #EXTGRP:Deportes
 http://45.162.135.1:1080/play/a049
-
+#EXTINF:-1,TUDN
+#EXTGRP:Deportes
+http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/160
 
 #EXTINF:-1,Animal Planet HD
 http://186.3.216.78:9955/play/a0zf/index.m3u8
