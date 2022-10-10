@@ -5,10 +5,8 @@ http://95.211.250.58/BRAZZERS/index.m3u8
 http://195.154.185.179/xx_hustler_hd/index.m3u8
 #EXTINF:-1,PENTHOUSE
 http://195.154.185.179/xx_penthouse_gold_hd/index.m3u8
-#EXTINF:-1,PLAYBOY 
-http://82.197.214.59:4000/play/a02i/index.m3u8
 #EXTINF:-1,PLAYBOY HD
-http://8.243.127.178:8000/play/a023
+http://esrv.cc:80/cliente3_Julio_00n/userJuly_0C/41462.ts
 #EXTINF:-1,LOS SIMPSONS 1
 http://tv.teleclub.xyz/stream/24_7/SIMPSONS_247/index.m3u8
 #EXTINF:-1,LOS SIMPSONS 2
@@ -135,7 +133,7 @@ http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/3512
 #EXTINF:-1,PREMIERE SPORTS 
 #EXTGRP:Deportes
 http://89.187.173.219:80/daniel2022/daniel2022/4084
-EXTINF:-1,PREMIERE SPORTS FHD
+#EXTINF:-1,PREMIERE SPORTS FHD
 #EXTGRP:Deportes
 http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/3519
 #EXTINF:-1,PREMIERE HD
