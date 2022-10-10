@@ -112,10 +112,7 @@ https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
 http://181.78.27.190:5350/play/a00w
 #EXTINF:-1,TYC SPORTS HD
 #EXTGRP:Deportes
-http://8.243.127.178:8000/play/a00h
-#EXTINF:-1,WIN SPORTS+ HD
-#EXTGRP:Deportes
-http://8.243.127.178:8000/play/a02v
+http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/163
 #EXTINF:-1,WIN SPORTS+ FHD
 #EXTGRP:Deportes
 http://200.41.79.165:8000/play/a0js
