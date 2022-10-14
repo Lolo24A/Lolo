@@ -37,17 +37,26 @@ http://186.3.216.78:9955/play/a0zv/index.m3u8
 http://181.175.41.170:8000/play/a0j8
 #EXTINF:-1,ESPN HD Arg
 #EXTGRP:Deportes
+http://131.196.194.2:8000/play/a0ed/index.m3u8
+#EXTINF:-1,ESPN FHD Arg
+#EXTGRP:Deportes
 http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/3034
 #EXTINF:-1,ESPN SD Chi
 #EXTGRP:Deportes
 http://170.83.242.11:5350/play/a00u
 #EXTINF:-1,ESPN 2 HD Arg
 #EXTGRP:Deportes
+http://131.196.194.2:8000/play/a0ec/index.m3u8
+#EXTINF:-1,ESPN 2 FHD Arg
+#EXTGRP:Deportes
 http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/3035
 #EXTINF:-1,ESPN 2 SD
 #EXTGRP:Deportes
 http://170.83.242.11:5350/play/a00t
 #EXTINF:-1,ESPN 3 HD Arg
+#EXTGRP:Deportes
+http://131.196.194.2:8000/play/a0ee/index.m3u8
+#EXTINF:-1,ESPN 3 FHD Arg
 #EXTGRP:Deportes
 http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/3036
 #EXTINF:-1,ESPN 3 SD Arg
@@ -59,15 +68,24 @@ http://186.3.216.78:9955/play/a0yr/index.m3u8
 #EXTINF:-1,ESPN 4 SD Arg
 #EXTGRP:Deportes
 http://170.83.242.11:5350/play/a01h
+#EXTINF:-1,ESPN PREMIUM Arg
+#EXTGRP:Deportes
+http://131.196.194.2:8000/play/a0ex/index.m3u8
+#EXTINF:-1,ESPN EXTRA Arg
+#EXTGRP:Deportes
+http://131.196.194.2:8000/play/a0ev/index.m3u8
 #EXTINF:-1,FOX SPORTS 1 HD Arg
 #EXTGRP:Deportes 
 http://181.175.41.170:8000/play/a0i7
+#EXTINF:-1,FOX SPORTS 1 FHD Arg
+#EXTGRP:Deportes 
+http://131.196.194.2:8000/play/a0ew/index.m3u8
 #EXTINF:-1,FOX SPORTS 2 HD Arg
 #EXTGRP:Deportes
+http://131.196.194.2:8000/play/a0ef/index.m3u8
+#EXTINF:-1,FOX SPORTS 2 SD Arg
+#EXTGRP:Deportes
 http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/3039
-#EXTINF:1,FOX SPORTS 2 SD Arg
-#EXTGRP:Deportes 
-http://181.78.27.190:5350/play/a013
 #EXTINF:-1,FOX SPORTS 3 HD Arg
 #EXTGRP:Deportes
 http://181.175.41.170:8000/play/a0go
@@ -169,7 +187,10 @@ http://45.162.135.1:1080/play/a049
 #EXTINF:-1,TUDN
 #EXTGRP:Deportes
 http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/160
-#EXTINF:-1,VTV PLUS
+#EXTINF:-1,VTV PLUS HD
+#EXTGRP:DEPORTES
+http://382215136890245010.niceapy.xyz:80/play/9PNN7OL6MR/1577654921/245010.ts
+#EXTINF:-1,VTV PLUS SD
 #EXTGRP:DEPORTES
 http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/1313
 
