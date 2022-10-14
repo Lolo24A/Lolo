@@ -35,12 +35,12 @@ http://186.3.216.78:9955/play/a0zv/index.m3u8
 #EXTINF:-1,ESPN HD Col
 #EXTGRP:Deportes
 http://181.175.41.170:8000/play/a0j8
-#EXTINF:-1,ESPN HD Arg
-#EXTGRP:Deportes
-http://131.196.194.2:8000/play/a0ed/index.m3u8
 #EXTINF:-1,ESPN FHD Arg
 #EXTGRP:Deportes
-http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/3034
+http://131.196.194.2:8000/play/a0ed/index.m3u8
+#EXTINF:-1,ESPN HD Arg
+#EXTGRP:Deportes
+http://45.5.149.104:8000/play/a1np/index.m3u8
 #EXTINF:-1,ESPN SD Chi
 #EXTGRP:Deportes
 http://170.83.242.11:5350/play/a00u
@@ -128,6 +128,9 @@ http://181.175.41.170:8000/play/a0i2
 #EXTINF:-1,TIGO SPORTS CR
 #EXTGRP:Deportes
 http://181.175.41.170:8000/play/a0g4
+#EXTINF:-1,TNT SPORTS Arg
+#EXTGRP:Deportes
+http://45.5.149.104:8000/play/a1pq/index.m3u8
 #EXTINF:-1,TNT SPORTS Br
 #EXTGRP:Deportes
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
@@ -145,12 +148,12 @@ http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/163
 http://200.41.79.165:8000/play/a0js
 #EXTINF:-1,WIN SPORTS HD
 #EXTGRP:Deportes 
-http://186.3.216.78:9955/play/a10q/index.m3u8
+http://181.78.22.214:8000/play/a01o
 #EXTINF:-1,Win Sports+ HD
 http://186.3.216.78:9955/play/a0ze/index.m3u8
 #EXTINF:-1,SPORTV HD
 #EXTGRP:Deportes
-http://45.184.160.146:8000/play/a006
+http://speedwk.site:80/play/3EFuzoulWvEx65D7zquj3e6e0mzy0F1Uuoic8l-4Cr91yYCWCua36VW5dIeQp1Ms/ts
 #EXTINF:-1,SPORTV SD
 #EXTGRP:Deportes
 http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/3512
@@ -230,7 +233,7 @@ http://181.175.41.170:8000/play/a0g0
 #EXTINF:-1,Sony HD
 http://181.175.41.170:8000/play/a0g2
 #EXTINF:-1,Space HD
-http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/144
+http://45.5.149.104:8000/play/a1ps/index.m3u8
 #EXTINF:-1,Studio Universal HD
 http://181.175.41.170:8000/play/a0f6
 #EXTINF:-1,Tnt HD
