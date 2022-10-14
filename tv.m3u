@@ -43,10 +43,10 @@ http://131.196.194.2:8000/play/a0ed/index.m3u8
 http://45.5.149.104:8000/play/a1np/index.m3u8
 #EXTINF:-1,ESPN SD Chi
 #EXTGRP:Deportes
-http://170.83.242.11:5350/play/a00u
+http://209.45.80.116:8070/play/a07h/index.m3u8
 #EXTINF:-1,ESPN 2 HD Arg
 #EXTGRP:Deportes
-http://131.196.194.2:8000/play/a0ec/index.m3u8
+http://190.131.247.82:8000/play/a05w
 #EXTINF:-1,ESPN 2 FHD Arg
 #EXTGRP:Deportes
 http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/3035
@@ -70,7 +70,7 @@ http://186.3.216.78:9955/play/a0yr/index.m3u8
 http://170.83.242.11:5350/play/a01h
 #EXTINF:-1,ESPN PREMIUM Arg
 #EXTGRP:Deportes
-http://131.196.194.2:8000/play/a0ex/index.m3u8
+http://45.5.149.104:8000/play/a1qp/index.m3u8
 #EXTINF:-1,ESPN EXTRA Arg
 #EXTGRP:Deportes
 http://131.196.194.2:8000/play/a0ev/index.m3u8
@@ -148,7 +148,7 @@ http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/163
 http://200.41.79.165:8000/play/a0js
 #EXTINF:-1,WIN SPORTS HD
 #EXTGRP:Deportes 
-http://181.78.22.214:8000/play/a01o
+http://bigdog.click:80/john/john1234/434493
 #EXTINF:-1,Win Sports+ HD
 http://186.3.216.78:9955/play/a0ze/index.m3u8
 #EXTINF:-1,SPORTV HD
