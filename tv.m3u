@@ -16,10 +16,10 @@ http://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_2.m3u8
 #EXTINF:-1,FOX SPORTS PREMIUM 
 #EXTGRP:Deportes
-http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/552
+http://tv.teleclub.xyz/stream/Deportes/FOXSPORTS_PREMIUM/index.m3u8
 #EXTINF:-1,DIRECTV Arg
 #EXTGRP:Deportes
-http://382215136890314198.niceapy.xyz:80/play/9PNN7OL6MR/1577654921/314198.ts
+http://tv.teleclub.xyz/stream/Deportes/DIRECTV/index.m3u8
 #EXTINF:-1,DIRECTV Per
 #EXTGRP:Deportes
 http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/3219
@@ -52,7 +52,7 @@ http://190.131.247.82:8000/play/a05w
 http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/3035
 #EXTINF:-1,ESPN 2 SD
 #EXTGRP:Deportes
-http://170.83.242.11:5350/play/a00t
+http://bigdog.click:80/john/john1234/196724
 #EXTINF:-1,ESPN 3 HD Arg
 #EXTGRP:Deportes
 http://131.196.194.2:8000/play/a0ee/index.m3u8
@@ -148,7 +148,7 @@ http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/163
 http://200.41.79.165:8000/play/a0js
 #EXTINF:-1,WIN SPORTS HD
 #EXTGRP:Deportes 
-http://bigdog.click:80/john/john1234/434493
+http://tv.teleclub.xyz/stream/Deportes/WIN_SPORTS/index.m3u8
 #EXTINF:-1,Win Sports+ HD
 http://186.3.216.78:9955/play/a0ze/index.m3u8
 #EXTINF:-1,SPORTV HD
@@ -162,7 +162,7 @@ http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/3512
 http://bigdog.click:80/Eddieh/Eddieh/434343
 #EXTINF:-1,PREMIERE SPORTS 
 #EXTGRP:Deportes
-http://89.187.173.219:80/daniel2022/daniel2022/4084
+http://bigdog.click:80/john/john1234/434326
 #EXTINF:-1,PREMIERE SPORTS FHD
 #EXTGRP:Deportes
 http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/3519
@@ -212,10 +212,6 @@ http://181.175.41.170:8000/play/a0gs
 http://181.175.41.170:8000/play/a0gw
 #EXTINF:-1,Fx HD
 http://181.175.41.170:8000/play/a0fe
-#EXTINF:-1,Golden Edge
-
-#EXTINF:-1,Golden Premiere 2 HD
-
 #EXTINF:-1,Hbo HD
 http://181.175.41.170:8000/play/a0dz
 #EXTINF:-1,Hbo2 HD
