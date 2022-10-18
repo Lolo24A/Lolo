@@ -43,7 +43,7 @@ http://131.196.194.2:8000/play/a0ed/index.m3u8
 http://45.5.149.104:8000/play/a1np/index.m3u8
 #EXTINF:-1,ESPN SD Chi
 #EXTGRP:Deportes
-http://209.45.80.116:8070/play/a07h/index.m3u8
+http://45.232.210.1:8062/play/a08u/index.m3u8
 #EXTINF:-1,ESPN 2 HD Arg
 #EXTGRP:Deportes
 http://190.131.247.82:8000/play/a05w
