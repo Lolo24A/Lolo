@@ -6,7 +6,7 @@ http://195.154.185.179/xx_hustler_hd/index.m3u8
 #EXTINF:-1,PENTHOUSE
 http://195.154.185.179/xx_penthouse_gold_hd/index.m3u8
 #EXTINF:-1,PLAYBOY HD
-http://esrv.cc:80/cliente3_Julio_00n/userJuly_0C/41462.ts
+
 #EXTINF:-1,LOS SIMPSONS 1
 http://tv.teleclub.xyz/stream/24_7/SIMPSONS_247/index.m3u8
 #EXTINF:-1,LOS SIMPSONS 2
@@ -29,9 +29,9 @@ http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/1048
 #EXTINF:-1,DIRECTV Plus+
 #EXTGRP:Deportes
 http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/1046
-#EXTINF:-1,ECDF
+#EXTINF:-1,FUTV CR
 #EXTGRP:Deportes
-http://186.3.216.78:9955/play/a0zv/index.m3u8
+http://181.175.41.170:8000/play/a0gk
 #EXTINF:-1,ESPN HD Col
 #EXTGRP:Deportes
 http://181.175.41.170:8000/play/a0j8
@@ -40,7 +40,7 @@ http://181.175.41.170:8000/play/a0j8
 http://131.196.194.2:8000/play/a0ed/index.m3u8
 #EXTINF:-1,ESPN HD Arg
 #EXTGRP:Deportes
-http://45.5.149.104:8000/play/a1np/index.m3u8
+
 #EXTINF:-1,ESPN SD Chi
 #EXTGRP:Deportes
 http://45.232.210.1:8062/play/a08u/index.m3u8
@@ -52,19 +52,19 @@ http://190.131.247.82:8000/play/a05w
 http://131.196.194.2:8000/play/a0ec/index.m3u8
 #EXTINF:-1,ESPN 2 SD
 #EXTGRP:Deportes
-http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/3035
+http://190.131.247.82:8000/play/a05w
 #EXTINF:-1,ESPN 3 HD Arg
 #EXTGRP:Deportes
 http://131.196.194.2:8000/play/a0ee/index.m3u8
 #EXTINF:-1,ESPN 3 FHD Arg
 #EXTGRP:Deportes
-http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/3036
+http://190.131.247.82:8000/play/a09f
 #EXTINF:-1,ESPN 3 SD Arg
 #EXTGRP:Deportes
 http://181.78.22.214:8000/play/a01s
 #EXTINF:-1,ESPN 4 HD Arg
 #EXTGRP:Deportes
-http://186.3.216.78:9955/play/a0yr/index.m3u8
+http://190.131.247.82:8000/play/a0ds
 #EXTINF:-1,ESPN 4 SD Arg
 #EXTGRP:Deportes
 http://170.83.242.11:5350/play/a01h
@@ -80,18 +80,21 @@ http://181.175.41.170:8000/play/a0i7
 #EXTINF:-1,FOX SPORTS 1 FHD Arg
 #EXTGRP:Deportes 
 http://131.196.194.2:8000/play/a0ew/index.m3u8
+#EXTINF:-1,FOX SPORTS 2 FHD Arg
+#EXTGRP:DEPORTES
+http://131.196.194.2:8000/play/a0ef/index.m3u8
 #EXTINF:-1,FOX SPORTS 2 HD Arg
 #EXTGRP:Deportes
-http://131.196.194.2:8000/play/a0ef/index.m3u8
+http://181.175.41.170:8000/play/a0g6
 #EXTINF:-1,FOX SPORTS 2 SD Arg
 #EXTGRP:Deportes
-http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/3039
+http://190.186.159.19:58001/play/a006/index.m3u8
 #EXTINF:-1,FOX SPORTS 3 HD Arg
 #EXTGRP:Deportes
 http://181.175.41.170:8000/play/a0go
 #EXTINF:-1,FOX SPORTS 3 SD Arg
 #EXTGRP:Deportes
-http://181.78.22.214:8000/play/a01w
+http://190.131.247.82:8000/play/a09d
 #EXTINF:-1,ESPN HD Mex
 #EXTGRP:DEPORTES
 http://181.175.41.170:8000/play/a0gl
@@ -103,16 +106,16 @@ http://181.175.41.170:8000/play/a0gn
 http://181.175.41.170:8000/play/a0gm
 #EXTINF:-1,FOX SPORTS 1 HD Mex
 #EXTGRP:DEPORTES
-http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/105
+
 #EXTINF:-1,FOX SPORTS 2 HD Mex
 #EXTGRP:DEPORTES
-http://181.175.41.170:8000/play/a0g6
+
 #EXTINF:-1,FOX SPORTS 2 SD Mex
 #EXTGRP:DEPORTES
-http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/106
+
 #EXTINF:-1,FOX SPORTS 3 HD Mex
 #EXTGRP:DEPORTES
-http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/107
+
 #EXTINF:-1,GOL PERU HD
 #EXTGRP:Deportes
 http://181.175.41.170:8000/play/a0i3
@@ -125,6 +128,9 @@ http://170.83.242.10:5350/play/a00v
 #EXTINF:-1,MOVISTAR DEPORTES Per
 #EXTGRP:Deportes
 http://181.175.41.170:8000/play/a0i2
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES
+#EXTGRP:DEPORTES
+http://superiptv1.com:2082/Raeedtv2020RestreatM200/905367465299/32556
 #EXTINF:-1,TIGO SPORTS CR
 #EXTGRP:Deportes
 http://181.175.41.170:8000/play/a0g4
@@ -142,48 +148,48 @@ https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
 http://181.78.27.190:5350/play/a00w
 #EXTINF:-1,TYC SPORTS HD
 #EXTGRP:Deportes
-http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/163
+http://186.3.255.100:8855/play/a0up/index.m3u8
 #EXTINF:-1,WIN SPORTS+ FHD
 #EXTGRP:Deportes
 http://200.41.79.165:8000/play/a0js
 #EXTINF:-1,WIN SPORTS HD
 #EXTGRP:Deportes 
-http://181.78.22.214:8000/play/a01o
+http://190.131.247.82:8000/play/a05r
 #EXTINF:-1,Win Sports+ HD
-http://186.3.216.78:9955/play/a0ze/index.m3u8
+http://186.3.255.100:8855/play/a0u7/index.m3u8
 #EXTINF:-1,SPORTV HD
 #EXTGRP:Deportes
-http://speedwk.site:80/play/3EFuzoulWvEx65D7zquj3e6e0mzy0F1Uuoic8l-4Cr91yYCWCua36VW5dIeQp1Ms/ts
+
 #EXTINF:-1,SPORTV SD
 #EXTGRP:Deportes
-http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/3512
+
 #EXTINF:-1,SPORTV PT
 #EXTGRP:Deportes
 http://bigdog.click:80/Eddieh/Eddieh/434343
 #EXTINF:-1,PREMIERE SPORTS 
 #EXTGRP:Deportes
 http://bigdog.click:80/john/john1234/434326
-#EXTINF:-1,PREMIERE SPORTS FHD
+#EXTINF:-1,PREFIERE SPORTS HD
 #EXTGRP:Deportes
-http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/3519
+http://superiptv1.com:2082/Raeedtv2020RestreatM200/905367465299/46768
 #EXTINF:-1,PREMIERE HD
 #EXTGRP:Deportes
-http://382215136890326431.niceapy.xyz:80/play/9PNN7OL6MR/1577654921/326431.ts
+
 #EXTINF:-1,DAZN 1
 #EXTGRP:Deportes
-http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/3322
+
 #EXTINF:-1,DAZN 2
 #EXTGRP:Deportes
-http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/3323
+
 #EXTINF:-1,DAZN 3
 #EXTGRP:Deportes
-http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/3324
+
 #EXTINF:-1,DAZN 4
 #EXTGRP:Deportes
-http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/3325
+
 #EXTINF:-1,TNT SPORTS 1 Chi
 #EXTGRP:Deportes
-http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/3391
+
 #EXTINF:-1,TNT SPORTS 2 Chi
 #EXTGRP:Deportes
 http://45.162.135.1:1080/play/a037
@@ -192,20 +198,20 @@ http://45.162.135.1:1080/play/a037
 http://45.162.135.1:1080/play/a049
 #EXTINF:-1,TUDN
 #EXTGRP:Deportes
-http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/160
+
 #EXTINF:-1,VTV PLUS SD
 #EXTGRP:DEPORTES
-http://magmas5.com:8000/malotv/gratis/145911
+
 #EXTINF:-1,VTV PLUS HD
 #EXTGRP:DEPORTES
-http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/1313
+
 
 #EXTINF:-1,Animal Planet HD
-http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/45
+http://190.131.247.82:8000/play/a00e
 #EXTINF:-1,Cinecanal HD
 http://181.175.41.170:8000/play/a0g3
 #EXTINF:-1,Cinemax HD
-http://soberon.us:25461/m0nk3yn3w/n3wm0nk3y/66
+http://186.3.255.100:8855/play/a0t3/index.m3u8
 #EXTINF:-1,Discovery HD
 http://181.175.41.170:8000/play/a0gs
 #EXTINF:-1,Discovery ID HD
@@ -213,9 +219,9 @@ http://181.175.41.170:8000/play/a0gw
 #EXTINF:-1,Fx HD
 http://181.175.41.170:8000/play/a0fe
 #EXTINF:-1,Hbo HD
-http://181.175.41.170:8000/play/a0dz
+http://186.3.255.100:8855/play/a0u9/index.m3u8
 #EXTINF:-1,Hbo2 HD
-http://181.78.22.214:8000/play/a00n
+http://186.3.255.100:8855/play/a0u6/index.m3u8
 #EXTINF:-1,Hbo PLUS
 http://181.78.22.214:8000/play/a00o
 #EXTINF:-1,History 2 HD
