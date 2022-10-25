@@ -20,15 +20,15 @@ http://tv.teleclub.xyz/stream/Deportes/FOXSPORTS_PREMIUM/index.m3u8
 #EXTINF:-1,DIRECTV Arg
 #EXTGRP:Deportes
 http://tv.teleclub.xyz/stream/Deportes/DIRECTV/index.m3u8
-#EXTINF:-1,DIRECTV Per
+#EXTINF:-1,DIRECTV 1
 #EXTGRP:Deportes
-
+http://nextv-chile.xyz:2080/diego2022/diego2022/96818
 #EXTINF:-1,DIRECTV 2
 #EXTGRP:Deportes
-
+http://nextv-chile.xyz:2080/diego2022/diego2022/71820
 #EXTINF:-1,DIRECTV Plus+
 #EXTGRP:Deportes
-
+http://nextv-chile.xyz:2080/diego2022/diego2022/71821
 #EXTINF:-1,FUTV CR
 #EXTGRP:Deportes
 http://181.175.41.170:8000/play/a0gk
@@ -136,7 +136,7 @@ http://superiptv1.com:2082/Raeedtv2020RestreatM200/905367465299/32556
 http://181.175.41.170:8000/play/a0g4
 #EXTINF:-1,TNT SPORTS Arg
 #EXTGRP:Deportes
-
+http://nextv-chile.xyz:2080/diego2022/diego2022/72764
 #EXTINF:-1,TNT SPORTS 1 Br
 #EXTGRP:Deportes
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
@@ -148,7 +148,7 @@ https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
 http://8.243.108.57:8000/play/a02q
 #EXTINF:-1,TYC SPORTS HD
 #EXTGRP:Deportes
-http://186.3.255.100:8855/play/a0up/index.m3u8
+http://nextv-chile.xyz:2080/diego2022/diego2022/72767
 #EXTINF:-1,WIN SPORTS+ FHD
 #EXTGRP:Deportes
 http://200.41.79.165:8000/play/a0js
@@ -162,7 +162,7 @@ http://186.3.255.100:8855/play/a0u7/index.m3u8
 http://xcui.vitvabc.xyz:8880/287994003396/287994003396/16753
 #EXTINF:-1,SPORTV SD
 #EXTGRP:Deportes
-
+http://nextv-chile.xyz:2080/diego2022/diego2022/72843
 #EXTINF:-1,SPORTV PT
 #EXTGRP:Deportes
 http://bigdog.click:80/Eddieh/Eddieh/434343
@@ -198,12 +198,13 @@ http://45.162.135.1:1080/play/a037
 http://45.162.135.1:1080/play/a049
 #EXTINF:-1,TUDN
 #EXTGRP:Deportes
-
+http://nextv-chile.xyz:2080/diego2022/diego2022/71767
 #EXTINF:-1,VTV PLUS SD
 #EXTGRP:DEPORTES
-
+http://nextv-chile.xyz:2080/diego2022/diego2022/58730
 #EXTINF:-1,VTV PLUS HD
 #EXTGRP:DEPORTES
+http://nextv-chile.xyz:2080/diego2022/diego2022/58732
 
 
 #EXTINF:-1,Animal Planet HD
