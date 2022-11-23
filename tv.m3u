@@ -25,10 +25,10 @@ http://tv.teleclub.xyz/stream/Deportes/DIRECTV/index.m3u8
 https://nandplay.club:2053/panelespana/YgVhqqnVEdEG/80559
 #EXTINF:-1,DIRECTV 2
 #EXTGRP:Deportes
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/1048
+http://200.52.154.125:8000/play/a06o/index.m3u8
 #EXTINF:-1,DIRECTV Plus+
 #EXTGRP:Deportes
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/1046
+http://200.52.154.125:8000/play/a06p/index.m3u8
 #EXTINF:-1,FUTV CR
 #EXTGRP:Deportes
 http://181.175.41.170:8000/play/a0gk
@@ -154,7 +154,7 @@ https://nandplay.club:2053/panelespana/YgVhqqnVEdEG/148
 http://200.41.79.165:8000/play/a0js
 #EXTINF:-1,WIN SPORTS HD
 #EXTGRP:Deportes 
-http://190.131.247.82:8000/play/a05r
+http://45.167.194.11:8001/play/a020
 #EXTINF:-1,Win Sports+ HD
 http://186.3.255.100:8855/play/a0u7/index.m3u8
 #EXTINF:-1,SPORTV HD
@@ -175,18 +175,14 @@ http://superiptv1.com:2082/Raeedtv2020RestreatM200/905367465299/46768
 #EXTINF:-1,PREMIERE HD
 #EXTGRP:Deportes
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3519
-#EXTINF:-1,DAZN 1
-#EXTGRP:Deportes
-https://nandplay.club:2053/panelespana/YgVhqqnVEdEG/24731
-#EXTINF:-1,DAZN 2
-#EXTGRP:Deportes
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3323
-#EXTINF:-1,DAZN 3
-#EXTGRP:Deportes
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3324
-#EXTINF:-1,DAZN 4
-#EXTGRP:Deportes
-
+#EXTINF:-1,CARACOL HD
+http://200.41.79.165:8000/play/a0jk/index.m3u8
+#EXTINF:-1,LATINA PER
+http://181.176.148.142:8000/play/a02p
+#EXTINF:-1,TELEFUTURO 
+http://131.196.194.2:8000/play/a0h6/index.m3u8
+#EXTINF:-1,SNT 
+http://131.196.194.2:8000/play/a0h3/index.m3u8
 #EXTINF:-1,TNT SPORTS 1 Chi
 #EXTGRP:Deportes
 http://45.232.211.195:1080/play/a040
@@ -198,7 +194,7 @@ http://45.162.135.1:1080/play/a037
 http://45.162.135.1:1080/play/a049
 #EXTINF:-1,TUDN
 #EXTGRP:Deportes
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/160
+http://45.228.234.77:4430/play/tudn
 #EXTINF:-1,VTV PLUS SD
 #EXTGRP:DEPORTES
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/1313
