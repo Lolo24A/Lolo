@@ -128,15 +128,15 @@ http://8.243.108.57:8000/play/a02n
 #EXTINF:-1,MOVISTAR DEPORTES Per
 #EXTGRP:Deportes
 http://181.175.41.170:8000/play/a0i2
-#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES
+#EXTINF:-1,ECDF
 #EXTGRP:DEPORTES
-https://nandplay.club:2053/panelespana/YgVhqqnVEdEG/24734
+http://181.175.41.170:8000/play/a02h
 #EXTINF:-1,TIGO SPORTS CR
 #EXTGRP:Deportes
 http://181.175.41.170:8000/play/a0g4
 #EXTINF:-1,TNT SPORTS Arg
 #EXTGRP:Deportes
-https://nandplay.club:2053/panelespana/YgVhqqnVEdEG/386
+http://131.196.194.2:8000/play/a0hh/index.m3u8
 #EXTINF:-1,TNT SPORTS 1 Br
 #EXTGRP:Deportes
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
@@ -145,10 +145,10 @@ https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
 #EXTINF:-1,TYC SPORTS SD
 #EXTGRP:Deportes
-http://8.243.108.57:8000/play/a02q
+http://131.196.194.2:8000/play/a0ch/index.m3u8
 #EXTINF:-1,TYC SPORTS HD
 #EXTGRP:Deportes
-https://nandplay.club:2053/panelespana/YgVhqqnVEdEG/148
+http://131.196.194.2:8000/play/a0hf/index.m3u8
 #EXTINF:-1,WIN SPORTS+ FHD
 #EXTGRP:Deportes
 http://200.41.79.165:8000/play/a0js
@@ -159,30 +159,22 @@ http://45.167.194.11:8001/play/a020
 http://186.3.255.100:8855/play/a0u7/index.m3u8
 #EXTINF:-1,SPORTV HD
 #EXTGRP:Deportes
-https://nandplay.club:2053/panelespana/YgVhqqnVEdEG/1114
+
 #EXTINF:-1,SPORTV SD
 #EXTGRP:Deportes
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3512
-#EXTINF:-1,SPORTV PT
+
+#EXTINF:-1,SPORTV
 #EXTGRP:Deportes
-http://bigdog.click:80/Eddieh/Eddieh/434343
+
 #EXTINF:-1,PREMIERE SPORTS 
 #EXTGRP:Deportes
-http://bigdog.click:80/john/john1234/434326
+
 #EXTINF:-1,PREMIERE SPORTS HD
 #EXTGRP:Deportes
-http://superiptv1.com:2082/Raeedtv2020RestreatM200/905367465299/46768
+
 #EXTINF:-1,PREMIERE HD
 #EXTGRP:Deportes
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3519
-#EXTINF:-1,CARACOL HD
-http://200.41.79.165:8000/play/a0jk/index.m3u8
-#EXTINF:-1,LATINA PER
-http://181.176.148.142:8000/play/a02p
-#EXTINF:-1,TELEFUTURO 
-http://131.196.194.2:8000/play/a0h6/index.m3u8
-#EXTINF:-1,SNT 
-http://131.196.194.2:8000/play/a0h3/index.m3u8
+
 #EXTINF:-1,TNT SPORTS 1 Chi
 #EXTGRP:Deportes
 http://45.232.211.195:1080/play/a040
@@ -203,6 +195,14 @@ http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/1313
 http://nextv-chile.xyz:2080/diego2022/diego2022/58732
 
 
+#EXTINF:-1,CARACOL HD
+http://200.41.79.165:8000/play/a0jk/index.m3u8
+#EXTINF:-1,LATINA PER
+http://181.176.148.142:8000/play/a02p
+#EXTINF:-1,TELEFUTURO 
+http://131.196.194.2:8000/play/a0h6/index.m3u8
+#EXTINF:-1,SNT 
+http://131.196.194.2:8000/play/a0h3/index.m3u8
 #EXTINF:-1,Animal Planet HD
 http://190.131.247.82:8000/play/a00e
 #EXTINF:-1,Cinecanal HD
@@ -217,10 +217,6 @@ http://181.175.41.170:8000/play/a0gw
 http://181.175.41.170:8000/play/a0fe
 #EXTINF:-1,Hbo HD
 http://45.232.211.196:1080/play/a05t
-#EXTINF:-1,Hbo2 HD
-http://45.232.211.196:1080/play/a05q
-#EXTINF:-1,Hbo PLUS
-http://181.78.22.214:8000/play/a00o
 #EXTINF:-1,History 2 HD
 http://8.243.108.57:8000/play/a034
 #EXTINF:-1,History Channel HD
@@ -237,7 +233,5 @@ http://8.243.108.57:8000/play/a00a
 http://181.175.41.170:8000/play/a0f6
 #EXTINF:-1,Tnt HD
 http://181.175.41.170:8000/play/a0g7
-#EXTINF:-1,Universal Cinema HD
-http://181.175.41.170:8000/play/a0gx
 #EXTINF:-1,Warner Channel HD
 http://181.175.41.170:8000/play/a0g1
