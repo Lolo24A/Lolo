@@ -1,12 +1,12 @@
 ##EXTM3U
 #EXTINF:-1,BRAZZERS HD
-http://195.154.185.179/xx_xxl/index.m3u8
+
 #EXTINF:-1,HUSTLER HD
-http://195.154.185.179/xx_hustler_hd/index.m3u8
+
 #EXTINF:-1,PENTHOUSE
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/858
+
 #EXTINF:-1,REDLIGHT HD
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/856
+
 #EXTINF:-1,LOS SIMPSONS 1
 http://tv.teleclub.xyz/stream/24_7/SIMPSONS_247/index.m3u8
 #EXTINF:-1,LOS SIMPSONS 2
@@ -19,10 +19,10 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master_2.m3u8
 http://tv.teleclub.xyz/stream/Deportes/FOXSPORTS_PREMIUM/index.m3u8
 #EXTINF:-1,DIRECTV Arg
 #EXTGRP:Deportes
-http://tv.teleclub.xyz/stream/Deportes/DIRECTV/index.m3u8
+
 #EXTINF:-1,DIRECTV 1
 #EXTGRP:Deportes
-https://nandplay.club:2053/panelespana/YgVhqqnVEdEG/80559
+http://tv.teleclub.xyz/stream/Deportes/DIRECTV/index.m3u8
 #EXTINF:-1,DIRECTV 2
 #EXTGRP:Deportes
 http://200.52.154.125:8000/play/a06o/index.m3u8
@@ -124,7 +124,7 @@ http://181.175.41.170:8000/play/a0i3
 http://181.175.41.170:8000/play/a0id
 #EXTINF:-1,GOLTV SD
 #EXTGRP:Deportes
-http://8.243.108.57:8000/play/a02n
+http://131.196.194.2:8000/play/a0cg/index.m3u8
 #EXTINF:-1,MOVISTAR DEPORTES Per
 #EXTGRP:Deportes
 http://181.175.41.170:8000/play/a0i2
@@ -156,7 +156,7 @@ http://200.41.79.165:8000/play/a0js
 #EXTGRP:Deportes 
 http://45.167.194.11:8001/play/a020
 #EXTINF:-1,Win Sports+ HD
-http://186.3.255.100:8855/play/a0u7/index.m3u8
+
 #EXTINF:-1,SPORTV HD
 #EXTGRP:Deportes
 
@@ -189,10 +189,10 @@ http://45.162.135.1:1080/play/a049
 http://45.228.234.77:4430/play/tudn
 #EXTINF:-1,VTV PLUS SD
 #EXTGRP:DEPORTES
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/1313
+
 #EXTINF:-1,VTV PLUS HD
 #EXTGRP:DEPORTES
-http://nextv-chile.xyz:2080/diego2022/diego2022/58732
+
 
 
 #EXTINF:-1,CARACOL HD
@@ -204,11 +204,11 @@ http://131.196.194.2:8000/play/a0h6/index.m3u8
 #EXTINF:-1,SNT 
 http://131.196.194.2:8000/play/a0h3/index.m3u8
 #EXTINF:-1,Animal Planet HD
-http://190.131.247.82:8000/play/a00e
+http://131.196.194.2:8000/play/a0ca/index.m3u8
 #EXTINF:-1,Cinecanal HD
-http://181.175.41.170:8000/play/a0g3
+http://131.196.194.2:8000/play/a0dt/index.m3u8
 #EXTINF:-1,Cinemax HD
-http://186.3.255.100:8855/play/a0t3/index.m3u8
+http://131.196.194.2:8000/play/a09o/index.m3u8
 #EXTINF:-1,Discovery HD
 http://181.175.41.170:8000/play/a0gs
 #EXTINF:-1,Discovery ID HD
@@ -218,20 +218,20 @@ http://181.175.41.170:8000/play/a0fe
 #EXTINF:-1,Hbo HD
 http://45.232.211.196:1080/play/a05t
 #EXTINF:-1,History 2 HD
-http://8.243.108.57:8000/play/a034
+
 #EXTINF:-1,History Channel HD
 http://181.175.41.170:8000/play/a0ig
 #EXTINF:-1,Nat Geo HD
-http://181.175.41.170:8000/play/a0gp
+http://131.196.194.2:8000/play/a0ej/index.m3u8
 #EXTINF:-1,Star Channel HD
-http://181.175.41.170:8000/play/a0g0
+http://131.196.194.2:8000/play/a0dx/index.m3u8
 #EXTINF:-1,Sony HD
-http://181.175.41.170:8000/play/a0g2
+http://131.196.194.2:8000/play/a0eg/index.m3u8
 #EXTINF:-1,Space HD
-http://8.243.108.57:8000/play/a00a
+http://131.196.194.2:8000/play/a0hj/index.m3u8
 #EXTINF:-1,Studio Universal HD
 http://181.175.41.170:8000/play/a0f6
 #EXTINF:-1,Tnt HD
 http://181.175.41.170:8000/play/a0g7
 #EXTINF:-1,Warner Channel HD
-http://181.175.41.170:8000/play/a0g1
+http://131.196.194.2:8000/play/a0eh/index.m3u8
