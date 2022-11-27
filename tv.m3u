@@ -125,7 +125,7 @@ http://181.175.41.170:8000/play/a0id
 http://179.0.98.34:8000/play/a04d
 #EXTINF:-1,MOVISTAR DEPORTES Per
 #EXTGRP:Deportes
-http://181.175.41.170:8000/play/a0i2
+http://209.45.81.8:8000/play/a00b
 #EXTINF:-1,ECDF
 #EXTGRP:DEPORTES
 http://181.175.41.170:8000/play/a02h
@@ -143,7 +143,7 @@ https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
 #EXTINF:-1,TYC SPORTS SD
 #EXTGRP:Deportes
-http://131.196.194.2:8000/play/a0ch
+http://179.0.98.34:8000/play/a04i
 #EXTINF:-1,TYC SPORTS HD
 #EXTGRP:Deportes
 http://131.196.194.2:8000/play/a0hf
