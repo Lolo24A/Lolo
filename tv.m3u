@@ -176,7 +176,7 @@ http://146.0.35.45:8008/SALAH/SALAH/140479
 
 #EXTINF:-1,TNT SPORTS 1 Chi
 #EXTGRP:Deportes
-http://45.232.211.195:1080/play/a040
+http://38.7.221.21:4000/play/cdfhd
 #EXTINF:-1,TNT SPORTS 2 Chi
 #EXTGRP:Deportes
 http://45.162.135.1:1080/play/a037
@@ -207,7 +207,7 @@ http://179.0.98.34:8000/play/a046
 #EXTINF:-1,Cinecanal HD
 http://45.228.234.185:8000/play/a0hq
 #EXTINF:-1,Cinemax HD
-http://131.196.194.2:8000/play/a09o
+http://38.7.221.21:4000/play/cinemaxhd
 #EXTINF:-1,Discovery HD
 http://181.175.41.170:8000/play/a0gs
 #EXTINF:-1,Discovery ID HD
@@ -215,9 +215,9 @@ http://181.175.41.170:8000/play/a0gw
 #EXTINF:-1,Fx HD
 http://181.175.41.170:8000/play/a0fe
 #EXTINF:-1,Hbo HD
-http://45.232.211.196:1080/play/a05t
-#EXTINF:-1,History 2 HD
-
+http://38.7.221.21:4000/play/a08o
+#EXTINF:-1,TNT HD SUR
+http://38.7.221.21:4000/play/a06w
 #EXTINF:-1,History Channel HD
 http://181.175.41.170:8000/play/a0ig
 #EXTINF:-1,Nat Geo HD
@@ -231,7 +231,7 @@ http://190.236.91.123:8000/play/a08l
 #EXTINF:-1,Sony HD
 http://131.196.194.2:8000/play/a0eg
 #EXTINF:-1,Space HD
-http://131.196.194.2:8000/play/a0hj
+http://38.7.221.21:4000/play/a06g
 #EXTINF:-1,Studio Universal HD
 http://181.175.41.170:8000/play/a0f6
 #EXTINF:-1,Tnt HD
