@@ -4,7 +4,7 @@
 #EXTINF:-1,HUSTLER HD
 
 #EXTINF:-1,Distrito Comedia
-http://restreamtv.live:80/Scoreplus97280/VhTzayZRgw/138564.ts
+http://190.61.102.67:31589/play/a08t
 #EXTINF:-1,LOS SIMPSONS 1
 http://146.0.35.45:8008/SALAH/SALAH/158382
 #EXTINF:-1,LOS SIMPSONS 2
@@ -20,13 +20,13 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master_2.m3u8
 
 #EXTINF:-1,DIRECTV 1
 #EXTGRP:Deportes
-http://209.45.81.8:8000/play/a02o
+
 #EXTINF:-1,DIRECTV 2
 #EXTGRP:Deportes
-http://200.52.154.125:8000/play/a06o
+
 #EXTINF:-1,DIRECTV Plus+
 #EXTGRP:Deportes
-http://200.52.154.125:8000/play/a06p
+
 #EXTINF:-1,FUTV CR
 #EXTGRP:Deportes
 http://181.175.41.170:8000/play/a0gk
@@ -56,7 +56,7 @@ http://190.181.41.234:8000/play/a0bu
 http://131.196.194.2:8000/play/a0ee
 #EXTINF:-1,ESPN 3 FHD Arg
 #EXTGRP:Deportes
-http://45.232.211.195:1080/play/a04i
+http://200.60.7.43:8000/play/a012
 #EXTINF:-1,ESPN 3 SD Arg
 #EXTGRP:Deportes
 http://200.60.7.43:8000/play/a012
@@ -65,16 +65,16 @@ http://200.60.7.43:8000/play/a012
 http://190.131.247.82:8000/play/a0ds
 #EXTINF:-1,ESPN 4 SD Arg
 #EXTGRP:Deportes
-http://8.243.108.57:8000/play/a01m
+http://200.60.7.43:8000/play/a046
 #EXTINF:-1,ESPN PREMIUM Arg
 #EXTGRP:Deportes
-https://nandplay.club:2053/panelespana/YgVhqqnVEdEG/385
+
 #EXTINF:-1,ESPN EXTRA Arg
 #EXTGRP:Deportes
 http://131.196.194.2:8000/play/a0ev
 #EXTINF:-1,FOX SPORTS 1 HD Arg
 #EXTGRP:Deportes 
-http://181.175.41.170:8000/play/a0i7
+
 #EXTINF:-1,FOX SPORTS 1 FHD Arg
 #EXTGRP:Deportes 
 http://131.196.194.2:8000/play/a0ew
@@ -86,7 +86,7 @@ http://131.196.194.2:8000/play/a0ef
 http://181.175.41.170:8000/play/a0g6
 #EXTINF:-1,FOX SPORTS 2 SD Arg
 #EXTGRP:Deportes
-http://45.232.211.195:1080/play/a052
+http://177.234.230.226:8010/play/a002
 #EXTINF:-1,FOX SPORTS 3 HD Arg
 #EXTGRP:Deportes
 http://181.175.41.170:8000/play/a0go
@@ -98,7 +98,7 @@ http://190.131.247.82:8000/play/a09d
 http://181.175.41.170:8000/play/a0gl
 #EXTINF:-1,ESPN 2 HD Mex
 #EXTGRP:Deportes
-http://190.236.91.123:8000/play/a061
+
 #EXTINF:-1,ESPN 3 HD Mex
 #EXTGRP:DEPORTES
 http://181.175.41.170:8000/play/a0gm
@@ -134,7 +134,7 @@ http://181.175.41.170:8000/play/a02h
 http://181.175.41.170:8000/play/a0g4
 #EXTINF:-1,TNT SPORTS Arg
 #EXTGRP:Deportes
-http://131.196.194.2:8000/play/a0hh
+
 #EXTINF:-1,TNT SPORTS 1 Br
 #EXTGRP:Deportes
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
@@ -146,7 +146,7 @@ https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
 http://179.0.98.34:8000/play/a04i
 #EXTINF:-1,TYC SPORTS HD
 #EXTGRP:Deportes
-http://190.236.91.123:8000/play/a081
+
 #EXTINF:-1,WIN SPORTS+ FHD
 #EXTGRP:Deportes
 http://200.41.79.165:8000/play/a0js
@@ -176,13 +176,13 @@ http://45.239.225.30:8004/play/a022
 http://restreamtv.live:80/Scoreplus97280/VhTzayZRgw/161501.ts
 #EXTINF:-1,TNT SPORTS 1 Chi
 #EXTGRP:Deportes
-http://38.7.221.21:4000/play/cdfhd
+
 #EXTINF:-1,TNT SPORTS 2 Chi
 #EXTGRP:Deportes
-http://45.162.135.1:1080/play/a037
+
 #EXTINF:-1,TNT SPORTS 3 Chi
 #EXTGRP:Deportes
-http://45.162.135.1:1080/play/a049
+
 #EXTINF:-1,TUDN
 #EXTGRP:Deportes
 http://45.228.234.77:4430/play/tudn
@@ -199,15 +199,15 @@ http://200.41.79.165:8000/play/a0jk
 #EXTINF:-1,LATINA PER
 http://181.176.148.142:8000/play/a02p
 #EXTINF:-1,TELEFUTURO 
-http://131.196.194.2:8000/play/a0h6
+http://177.234.230.226:8010/play/a033
 #EXTINF:-1,SNT 
 http://131.196.194.2:8000/play/a0h3
 #EXTINF:-1,Animal Planet HD
 http://179.0.98.34:8000/play/a046
 #EXTINF:-1,Cinecanal HD
-http://45.228.234.185:8000/play/a0hq
+
 #EXTINF:-1,Cinemax HD
-http://38.7.221.21:4000/play/cinemaxhd
+
 #EXTINF:-1,Discovery HD
 http://181.175.41.170:8000/play/a0gs
 #EXTINF:-1,Discovery ID HD
@@ -215,9 +215,9 @@ http://181.175.41.170:8000/play/a0gw
 #EXTINF:-1,Fx HD
 http://181.175.41.170:8000/play/a0fe
 #EXTINF:-1,Hbo HD
-http://38.7.221.21:4000/play/a08o
+
 #EXTINF:-1,TNT HD SUR
-http://38.7.221.21:4000/play/a06w
+
 #EXTINF:-1,History Channel HD
 http://181.175.41.170:8000/play/a0ig
 #EXTINF:-1,Nat Geo HD
@@ -231,7 +231,7 @@ http://190.236.91.123:8000/play/a08l
 #EXTINF:-1,Sony HD
 http://131.196.194.2:8000/play/a0eg
 #EXTINF:-1,Space HD
-http://38.7.221.21:4000/play/a06g
+
 #EXTINF:-1,Studio Universal HD
 http://181.175.41.170:8000/play/a0f6
 #EXTINF:-1,Tnt HD
