@@ -199,15 +199,15 @@ http://200.41.79.165:8000/play/a0jk
 #EXTINF:-1,LATINA PER
 http://181.176.148.142:8000/play/a02p
 #EXTINF:-1,TELEFUTURO
-http://131.196.194.2:8000/play/a0h6
+http://131.196.194.2:8000/play/a0e3
 #EXTINF:-1,SNT 
-http://131.196.194.2:8000/play/a0h3
+http://131.196.194.2:8000/play/a0e2
 #EXTINF:-1,Animal Planet HD
 http://179.0.98.34:8000/play/a046
 #EXTINF:-1,Cinecanal HD
-
+http://131.196.194.2:8000/play/a0f0
 #EXTINF:-1,Cinemax HD
-
+http://45.161.115.26:50000/play/a01x/index.m3u8
 #EXTINF:-1,Discovery HD
 http://181.175.41.170:8000/play/a0gs
 #EXTINF:-1,Discovery ID HD
@@ -215,9 +215,9 @@ http://181.175.41.170:8000/play/a0gw
 #EXTINF:-1,Fx HD
 http://181.175.41.170:8000/play/a0fe
 #EXTINF:-1,Hbo HD
-
+http://45.175.164.232:5022/play/a0p8
 #EXTINF:-1,TNT HD SUR
-
+http://131.196.194.2:8000/play/a0f1
 #EXTINF:-1,History Channel HD
 http://181.175.41.170:8000/play/a0ig
 #EXTINF:-1,Nat Geo HD
@@ -225,13 +225,13 @@ http://131.196.194.2:8000/play/a0ej
 #EXTINF:-1,Star Channel
 http://131.196.194.2:8000/play/a0dx
 #EXTINF:-1,Star Channel HD
-http://190.181.41.234:8000/play/a0c2
+http://131.196.194.2:8000/play/a0ey
 #EXTINF:-1,Star Channel NORTE 
-
+http://181.78.7.92:6500/play/a023
 #EXTINF:-1,Sony HD
 http://131.196.194.2:8000/play/a0eg
 #EXTINF:-1,Space HD
-
+http://45.232.177.17:8000/play/a00z
 #EXTINF:-1,Studio Universal HD
 http://181.175.41.170:8000/play/a0f6
 #EXTINF:-1,Tnt HD
