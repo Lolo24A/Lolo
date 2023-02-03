@@ -171,7 +171,7 @@ http://206.1.95.9:8004/play/a00f
 http://200.4.96.59:8041/play/a045
 #EXTINF:-1,PREMIERE SPORTS 
 #EXTGRP:Deportes
-
+http://206.1.95.8:8004/play/a022
 #EXTINF:-1,PREMIERE SPORTS HD
 #EXTGRP:Deportes
 
@@ -219,7 +219,7 @@ http://181.175.41.170:8000/play/a0gw
 #EXTINF:-1,Fx HD
 http://181.175.41.170:8000/play/a0fe
 #EXTINF:-1,Hbo HD
-http://45.175.164.232:5022/play/a0p8
+http://152.200.181.236:15000/play/a01w
 #EXTINF:-1,TNT HD SUR
 http://131.196.194.2:8000/play/a0f1
 #EXTINF:-1,History Channel HD
