@@ -165,10 +165,10 @@ http://181.175.41.170:8000/play/a0jq
 http://146.0.35.45:8008/SALAH/SALAH/140479
 #EXTINF:-1,SPORTV SD
 #EXTGRP:Deportes
-
+http://206.1.95.9:8004/play/a00f
 #EXTINF:-1,SPORTV
 #EXTGRP:Deportes
-
+http://200.4.96.59:8041/play/a045
 #EXTINF:-1,PREMIERE SPORTS 
 #EXTGRP:Deportes
 
@@ -231,7 +231,7 @@ http://131.196.194.2:8000/play/a0dx
 #EXTINF:-1,Star Channel HD
 http://131.196.194.2:8000/play/a0ey
 #EXTINF:-1,Star Channel NORTE 
-http://181.78.7.92:6500/play/a023
+http://181.65.154.170:8000/play/a07p
 #EXTINF:-1,Sony HD
 http://131.196.194.2:8000/play/a0eg
 #EXTINF:-1,Space HD
