@@ -18,16 +18,16 @@ http://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_2.m3u8
 #EXTINF:-1,FOX SPORTS PREMIUM 
 #EXTGRP:Deportes
-
+https://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc_2A/TELEFUTURO_C4.mpd
 #EXTINF:-1,DIRECTV Arg
 #EXTGRP:Deportes
 http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/1059
 #EXTINF:-1,DIRECTV 1
 #EXTGRP:Deportes
-http://146.0.35.45:8008/SALAH/SALAH/162759
+http://146.0.35.45:8008/SALAH/SALAH/167731
 #EXTINF:-1,DIRECTV 2
 #EXTGRP:Deportes
-http://146.0.35.45:8008/SALAH/SALAH/167731
+http://146.0.35.45:8008/SALAH/SALAH/162759
 #EXTINF:-1,DIRECTV Plus+
 #EXTGRP:Deportes
 
