@@ -16,9 +16,9 @@ http://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 #EXTINF:-1,BEIN SPORTS 
 #EXTGRP:Deportes
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_2.m3u8
-#EXTINF:-1,FOX SPORTS PREMIUM 
+#EXTINF:-1,STAR PLUS EVENTOS
 #EXTGRP:Deportes
-
+https://famus-tv-64733.web.app/star_jwp.html?get=https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2023/03/09/Fortaleza_BRA_vs_Cerro_Po_20230309_1678393500215/ctr-all-complete.m3u8&img=https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/8F8BBD4C0450734262E4B589C251D427604CCA6595B474E442D0717E8A71C46E/scale?width=1920&aspectRatio=1.78&format=jpeg&key=5243163270544465af4c180134e75eef&key2=4f3617dffceb732eed1bf4c3c42e6e8e
 #EXTINF:-1,DIRECTV Arg
 #EXTGRP:Deportes
 http://elmonkey.us:25461/roger33/roger33/350
