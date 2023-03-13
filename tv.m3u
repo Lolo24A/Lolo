@@ -6,13 +6,13 @@ http://higherpro.xyz:8080/93ke76se23me65/m56da78me45m/45399
 #EXTINF:-1,Distrito Comedia
 http://flash.shortgod.com/2023prendido/tv5.php?id=37958
 #EXTINF:-1,LOS SIMPSONS 1
-http://146.0.35.45:8008/SALAH/SALAH/172732
+
 #EXTINF:-1,LOS SIMPSONS 2
-http://146.0.35.45:8008/SALAH/SALAH/172734
+
 #EXTINF:-1,LOS SIMPSONS 3
-http://146.0.35.45:8008/SALAH/SALAH/172735
+
 #EXTINF:-1,LOS SIMPSONS 4
-http://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
+
 #EXTINF:-1,BEIN SPORTS 
 #EXTGRP:Deportes
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_2.m3u8
@@ -45,7 +45,7 @@ http://131.196.194.2:8000/play/a0ed
 http://45.176.193.20:7837/play/a02h
 #EXTINF:-1,ESPN SD Chi
 #EXTGRP:Deportes
-http://45.232.210.1:8062/play/a08u
+http://190.26.217.123:8000/play/a146
 #EXTINF:-1,ESPN 2 HD Arg
 #EXTGRP:Deportes
 http://45.176.193.20:7837/play/a02i
